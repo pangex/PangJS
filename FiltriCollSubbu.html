@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <link rel="stylesheet" type="text/css" href="CSS/StilePagina.css" media="screen"/>
+    <script type="text/javascript">
+       $(document).ready(function()
+        {
+            caricaPagina('CollSubbu.html');
+			//$('.mostraPagina').load('CollSubbu.html');
+		});
+
+        $('#optBase').change(function() {
+        	document.getElementById('optPagina').selectedIndex = 0;
+            filtrali();
+        });
+
+        $('#optInner').change(function() {
+        	document.getElementById('optPagina').selectedIndex = 0;
+            filtrali();
+        });
+ 
+        $('#optPagina').change(function() {
+            filtrali();
+        });
+
+        $('#optImgXPag').change(function() {
+        	document.getElementById('optPagina').selectedIndex = 0;
+            filtrali();
+        });
+        
+        //var tasto;
+        $('#txtRef').keydown(function(tasto) {
+ 			if (tasto.which==13) 
+ 			{	
+ 				tasto.preventDefault();
+ 				filtrali();
+ 			}
+ 			//if (tasto.which==13) alert('invio');
+        });       
+ 
+        $('#txtDesc').keydown(function(tasto) {
+ 			if (tasto.which==13) 
+ 			{	
+ 				tasto.preventDefault();
+ 				filtrali();
+ 			}
+ 			//if (tasto.which==13) alert('invio');
+        });
+
+        function filtrali()
+        {
+            var ddlval;
+            var strUrl;
+            var optSel;
+ 	        var strPag = ''; 
+ 	        
+ 	        strUrl = 'CollSubbu.html';
+ 	        
+            ddlval = $('#optBase').val();
+            if (ddlval=='Tutti') ddlval='';
+            strUrl = strUrl+'?base='+ddlval;
+            
+            ddlval = $('#optInner').val();
+            if (ddlval=='Tutti') ddlval='';
+            strUrl = strUrl+'&inner='+ddlval;
+            
+            ddlval = $('#txtRef').val();
+            strUrl = strUrl+'&ref=' + ddlval ;
+
+            ddlval = $('#txtDesc').val();
+            strUrl = strUrl+'&desc=' + ddlval ;
+//alert($('#txtDesc').val());
+//            if (ddlval=='') strUrl = strUrl+'&desc=';
+//            else strUrl = strUrl+'&desc=' + ddlval ;
+            
+            ddlval = $('#optPagina').val();
+	        strPag = 'pag='+ddlval;       
+	        
+	        ddlval = $('#optImgXPag').val();
+	        if (ddlval=='Tutti') ddlval='0';   
+	        strPag = strPag +'&ixp='+ddlval;
+	        
+           //alert (strUrl);
+            apriLink(strUrl,0,0,strPag);
+        }
+    </script>
+</head>
+
+<body>
+    <form>
+	    <div class="content" align="Center" style="margin-top:5px;">
+            <table class="tabFiltri" cellspacing='0' cellpadding='0'  >
+	            <tr>
+	                <td width="20%"  class="cellLblFiltro" rowspan="1">
+	                    <input type="text" id="lblSerie" value="Colore Base "  class="lblFiltro" />
+	                </td>
+	                <td width="30%"  class="cellOptFiltro" rowspan="1">
+                        <select id="optBase"  class="optFiltro">
+                            <option selected value="Tutti">Tutti</option>
+                            <option value="amaranto">Amaranto</option>
+                            <option value="arancione">Arancione</option>
+                            <option value="azzurro">Azzurro</option>
+                            <option value="bianco">Bianco</option>
+                            <option value="blu">Blu</option>
+                            <option value="bluenavy">Blue Navy</option>
+                            <option value="giallo">Giallo</option>
+                            <option value="lilla">Lilla</option>
+                            <option value="nero">Nero</option>
+                            <option value="oro">Oro</option>
+                            <option value="rosso">Rosso</option>
+                            <option value="verde">Verde</option>
+                            <option value="viola">Viola</option>
+                        </select>
+	                </td>
+	                <td width="15%" class="cellLblFiltro" rowspan="1">
+                        <input type="text" id="lblRef" value="Ref " class="lblFiltro" />
+	                </td>
+	                <td width="15%" class="cellOptFiltro" rowspan="1">
+			            <input id="txtRef" type="text" class="optFiltro" />
+	                </td>	
+	                <td width="10%" class="cellLblFiltro">
+				        <input type="text" id="lblPagina" value="Pagina "  class="lblFiltro" />
+	                </td>
+	                <td width="7%" class="cellOptFiltro">
+			            <select id="optPagina" class="optFiltro">
+                            <option value="1">01</option>			            
+			            </select>
+	                </td>
+	            </tr>
+				<tr>
+	                <td width="20%"  class="cellLblFiltro" rowspan="1">
+                        <input type="text" id="lblPersonaggio" value="Colore Inner " class="lblFiltro"/>
+	                </td>
+	                <td width="30%"  class="cellOptFiltro" rowspan="1">
+                        <select id="optInner"  class="optFiltro">
+                            <option selected="selected" value="Tutti">Tutti</option>
+                            <option value="amaranto">Amaranto</option>
+                            <option value="arancione">Arancione</option>
+                            <option value="azzurro">Azzurro</option>
+                            <option value="bianco">Bianco</option>
+                            <option value="blu">Blu</option>
+                            <option value="bluenavy">Blue Navy</option>
+                            <option value="giallo">Giallo</option>
+<!--                            <option value="lilla">Lilla</option>-->
+                            <option value="nero">Nero</option>
+                            <option value="oro">Oro</option>
+                            <option value="rosso">Rosso</option>
+                            <option value="verde">Verde</option>
+<!--                             <option value="viola">Viola</option> -->
+                         </select>
+	                </td>
+	                <td width="10%" class="cellLblFiltro" rowspan="1">
+                        <input type="text" id="lblDesc" value="Descrizione " class="lblFiltro" />
+	                </td>
+	                <td width="15%" class="cellOptFiltro" rowspan="1">
+			            <input id="txtDesc" type="text" class="optFiltro" />
+	                </td>	
+	                <td width="10%" class="cellLblFiltro" >
+			            <input type="text" id="lblImgXPag" value="Foto x Pag "  class="lblFiltro" />
+	                </td>
+	                <td width="7%" class="cellOptFiltro" >
+			            <select id="optImgXPag" class="optFiltro" >
+			                <option selected="selected" value="60">  60 </option>
+			                <option value="120"> 120 </option>
+			                <option value="180"> 180 </option>
+			                <option value="240"> 240 </option>
+			                <option value="0">Tutti</option>
+			            </select>
+	                </td>
+	            </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

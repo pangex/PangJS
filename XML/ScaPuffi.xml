@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	
+	<smurfs ref="Puffi da Collezione 1" ordRef="01"
+		pos1="O" thumb1="https://lh4.googleusercontent.com/-7SiD_qsAC0M/UycSimYfJMI/AAAAAAAALzc/-Wjm0vx45kc/w160-h120-no/Foto_1_f_thumb.jpg" image1="https://lh6.googleusercontent.com/-V1T7qYwweyw/UycQw1ELULI/AAAAAAAALyI/phvLd9azLRM/w950-h713-no/Foto_1_f.jpg"
+		pos2="O" thumb2="" image2=""
+		pos3="O" thumb3="" image3=""
+		pos4="O" thumb4="" image4=""
+		pos5="O" thumb5="" image5="">
+		 
+	</smurfs>
+	<smurfs ref="Puffi da Collezione 2" ordRef="01"
+		pos1="O" thumb1="https://lh5.googleusercontent.com/-YEJX7VjUHk0/UycSiWll8ZI/AAAAAAAALzY/AGCaU9Q7aeA/w160-h120-no/Foto_2_f_thumb.jpg" image1="https://lh4.googleusercontent.com/-Pr7-Jl7vANw/UycQxgUOsyI/AAAAAAAALyQ/blBLXJNyIHI/w950-h713-no/Foto_2_f.jpg"
+		pos2="O" thumb2="" image2=""
+		pos3="O" thumb3="" image3=""
+		pos4="O" thumb4="" image4=""
+		pos5="O" thumb5="" image5="">
+		 
+	</smurfs>
+	<smurfs ref="Puffi da Collezione 3" ordRef="01"
+		pos1="O" thumb1="https://lh3.googleusercontent.com/-f3aX1PzIw3o/UycSig52kxI/AAAAAAAALzg/80zm4JCN25A/w160-h120-no/Foto_3_f_thumb.jpg" image1="https://lh4.googleusercontent.com/-2X6TvUPamnQ/UycQysySGEI/AAAAAAAALyY/IgJkq8jEyrc/w950-h713-no/Foto_3_f.jpg"
+		pos2="O" thumb2="" image2=""
+		pos3="O" thumb3="" image3=""
+		pos4="O" thumb4="" image4=""
+		pos5="O" thumb5="" image5="">
+		 
+	</smurfs>
+	<smurfs ref="Puffi da Collezione 4" ordRef="01" 
+		pos1="O" thumb1="https://lh3.googleusercontent.com/-SNK7QwFllE8/UycSjG7QWDI/AAAAAAAALzw/VFQc8_JlkEk/w160-h120-no/Foto_4_f_thumb.jpg" image1="https://lh6.googleusercontent.com/-lI93YPejUwY/UycQ0C0WSLI/AAAAAAAALyo/z6HFgITOnoc/w950-h713-no/Foto_4_f.jpg"
+		pos2="O" thumb2="" image2=""
+		pos3="O" thumb3="" image3=""
+		pos4="O" thumb4="" image4=""
+		pos5="O" thumb5="" image5="">
+		 
+	</smurfs>
+	<smurfs ref="Puffi da Collezione 5" ordRef="01"  pos="O"
+		pos1="O" thumb1="https://lh6.googleusercontent.com/-f76Ce0_RCXk/UycSjNpbcAI/AAAAAAAALzs/dzFLcO7n3bI/w160-h120-no/Foto_5_r_thumb.jpg" image1="https://lh4.googleusercontent.com/-Uh4G0FuQjOo/UycQ2m36B1I/AAAAAAAALy4/UK_PKgKt9Do/w950-h713-no/Foto_5_r.jpg"
+		pos2="O" thumb2="" image2=""
+		pos3="O" thumb3="" image3=""
+		pos4="O" thumb4="" image4=""
+		pos5="O" thumb5="" image5="">
+		1,2,3,7 10€ ** 4 a 6€ ** 5,6,8,10 8€ ** 9 a 20€
+	</smurfs>
+
+	<smurfs ref="" ordRef="01" 
+		pos1="O" thumb1="" image1=""
+		pos2="O" thumb2="" image2=""
+		pos3="O" thumb3="" image3=""
+		pos4="O" thumb4="" image4=""
+		pos5="O" thumb5="" image5="">
+		
+	</smurfs>
+
+</root>

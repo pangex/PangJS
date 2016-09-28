@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <smurf ref="20001" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20001-A_thumb.jpg" image="./IMG/Puffi/pics/20001-A.jpg" serie="normale" datains="20130327" anno="1966">Grande puffo</smurf>
+  <smurf ref="20001" ordRef="02" tipo="gp" thumb="./IMG/Puffi/thumb/20001-B_thumb.jpg" image="./IMG/Puffi/pics/20001-B.jpg" serie="noncolorato" datains="20130327" anno="1966">Grande puffo **(non colorato)</smurf>
+  <smurf ref="20001" ordRef="03" tipo="gp" thumb="./IMG/Puffi/thumb/20001-Cust_thumb.jpg" image="./IMG/Puffi/pics/20001-Cust.jpg" serie="custom" datains="20130327" anno="1966">Grande Puffo **(Custom)</smurf>
+  <smurf ref="20002" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20002-A_thumb.jpg" image="./IMG/Puffi/pics/20002-A.jpg" serie="normale" datains="20130327" anno="1966">Normale</smurf>
+  <smurf ref="20003" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20003-A_thumb.jpg" image="./IMG/Puffi/pics/20003-A.jpg" serie="normale" datains="20130327" anno="1970">Astronauta **(Bully)</smurf>
+  <smurf ref="20003" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20003-B_thumb.jpg" image="./IMG/Puffi/pics/20003-B.jpg" serie="normale" datains="20130327" anno="1970">Astronauta **(senza zip)</smurf>
+  <smurf ref="20004" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20004-A_thumb.jpg" image="./IMG/Puffi/pics/20004-A.jpg" serie="normale" datains="20130327" anno="1970">Con sciarpa **(gialla)</smurf>
+  <smurf ref="20004" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20004-B_thumb.jpg" image="./IMG/Puffi/pics/20004-B.jpg" serie="normale" datains="20130327" anno="1970">Con sciarpa **(rossa)</smurf>
+  <smurf ref="20004" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20004-Temp_thumb.jpg" image="./IMG/Puffi/pics/20004-Temp.jpg" serie="temperino" datains="20130327" anno="1970">Con sciarpa gialla**(Temperino)</smurf>
+  <smurf ref="20005" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20005-A_thumb.jpg" image="./IMG/Puffi/pics/20005-A.jpg" serie="normale" datains="20130327" anno="1966">Dorato</smurf>
+  <smurf ref="20006" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20006-A_thumb.jpg" image="./IMG/Puffi/pics/20006-A.jpg" serie="normale" datains="20130327" anno="1970">Quattrocchi **(occhiali rossi)</smurf>
+  <smurf ref="20006" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20006-B_thumb.jpg" image="./IMG/Puffi/pics/20006-B.jpg" serie="normale" datains="20130327" anno="1970">Quattrocchi **(occhiali neri)</smurf>
+  <smurf ref="20007" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20007-A_thumb.jpg" image="./IMG/Puffi/pics/20007-A.jpg" serie="normale" datains="20130327" anno="1967">Arrabbiato **(figura grande)</smurf>
+  <smurf ref="20007" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20007-B_thumb.jpg" image="./IMG/Puffi/pics/20007-B.jpg" serie="normale" datains="20130327" anno="1967">Arrabbiato **(denti neri)</smurf>
+  <smurf ref="20007" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20007-C_thumb.jpg" image="./IMG/Puffi/pics/20007-C.jpg" serie="normale" datains="20130327" anno="1967">Arrabbiato **(denti rossi)</smurf>
+  <smurf ref="20008" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20008-A_thumb.jpg" image="./IMG/Puffi/pics/20008-A.jpg" serie="normale" datains="20130327" anno="1967">Spia</smurf>
+  <smurf ref="20009" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20009-A_thumb.jpg" image="./IMG/Puffi/pics/20009-A.jpg" serie="normale" datains="20130521" anno="1967">Percussionista</smurf>
+  <smurf ref="20010" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20010-A_thumb.jpg" image="./IMG/Puffi/pics/20010-A.jpg" serie="normale" datains="20130327" anno="1966">Prigioniero</smurf>
+  <smurf ref="20011" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20011-A_thumb.jpg" image="./IMG/Puffi/pics/20011-A.jpg" serie="normale" datains="20130327" anno="1971">Che sghignazza</smurf>
+  <smurf ref="20012" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20012-A_thumb.jpg" image="./IMG/Puffi/pics/20012-A.jpg" serie="normale" datains="20130327" anno="1971">Meccanico **(tuta verde)</smurf>
+  <smurf ref="20013" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20013-A_thumb.jpg" image="./IMG/Puffi/pics/20013-A.jpg" serie="normale" datains="20130327" anno="1970">Con Liuto **(rosso)</smurf>
+  <smurf ref="20013" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20013-B_thumb.jpg" image="./IMG/Puffi/pics/20013-B.jpg" serie="normale" datains="20130327" anno="1970">Con Liuto **(giallo)</smurf>
+  <smurf ref="20014" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20014-A_thumb.jpg" image="./IMG/Puffi/pics/20014-A.jpg" serie="normale" datains="20130403" anno="1971">Al sole **(costume verde/nero)</smurf>
+  <smurf ref="20014" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20014-B_thumb.jpg" image="./IMG/Puffi/pics/20014-B.jpg" serie="normale" datains="20130327" anno="1971">Al sole **(costume giallo/nero)</smurf>
+  <smurf ref="20014" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20014-C_thumb.jpg" image="./IMG/Puffi/pics/20014-C.jpg" serie="normale" datains="20130327" anno="1971">Al sole **(costume rosso/nero)</smurf>
+  <smurf ref="20014" ordRef="04" tipo="pf" thumb="./IMG/Puffi/thumb/20014-D_thumb.jpg" image="./IMG/Puffi/pics/20014-D.jpg" serie="normale" datains="20130327" anno="1971">Al sole **(costume bianco/rosso)</smurf>
+  <smurf ref="20015" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20015-A_thumb.jpg" image="./IMG/Puffi/pics/20015-A.jpg" serie="normale" datains="20130327" anno="1972">Con mal d'orecchie</smurf>
+  <smurf ref="20016" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20016-A_thumb.jpg" image="./IMG/Puffi/pics/20016-A.jpg" serie="normale" datains="20130327" anno="1972">Giudice **(toga nera)</smurf>
+  <smurf ref="20016" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20016-B_thumb.jpg" image="./IMG/Puffi/pics/20016-B.jpg" serie="normale" datains="20130327" anno="1972">Giudice **(toga rossa)</smurf>
+  <smurf ref="20017" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20017-A_thumb.jpg" image="./IMG/Puffi/pics/20017-A.jpg" serie="normale" datains="20130327" anno="1973">Vanitoso</smurf>
+  <smurf ref="20017" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20017-B_thumb.jpg" image="./IMG/Puffi/pics/20017-B.jpg" serie="noncolorato" datains="20130327" anno="1973">Vanitoso **(non colorato)</smurf>
+  <smurf ref="20018" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20018-A_thumb.jpg" image="./IMG/Puffi/pics/20018-A.jpg" serie="normale" datains="20130327" anno="1973">Che piange **(fazzoletto giallo)</smurf>
+  <smurf ref="20019" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20019_thumb.jpg" image="./IMG/Puffi/pics/20019.jpg" serie="normale" datains="20140317" anno="1972">Con fiore in bocca**(fiore rovinato)</smurf>
+  <smurf ref="20020" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20020-A_thumb.jpg" image="./IMG/Puffi/pics/20020-A.jpg" serie="normale" datains="20130327" anno="1973">Sollevatore di pesi **(maglia gialla)</smurf>
+  <smurf ref="20020" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20020-C_thumb.jpg" image="./IMG/Puffi/pics/20020-C.jpg" serie="normale" datains="20130327" anno="1973">Sollevatore di pesi **(maglia rossa)</smurf>
+  <smurf ref="20020" ordRef="04" tipo="pf" thumb="./IMG/Puffi/thumb/20020-D_thumb.jpg" image="./IMG/Puffi/pics/20020-D.jpg" serie="normale" datains="20130327" anno="1973">Sollevatore di pesi **(senza maglia)</smurf>
+  <smurf ref="20021" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20021-B_thumb.jpg" image="./IMG/Puffi/pics/20021-B.jpg" serie="normale" datains="20130327" anno="1973">Sonnambulo **(pon pon giallo)</smurf>
+  <smurf ref="20021" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20021-C_thumb.jpg" image="./IMG/Puffi/pics/20021-C.jpg" serie="normale" datains="20130327" anno="1973">Sonnambulo **(pon pon rosso)</smurf>
+  <smurf ref="20022" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20022-A_thumb.jpg" image="./IMG/Puffi/pics/20022-A.jpg" serie="normale" datains="20130327" anno="1973">Poeta **(penna nera)</smurf>
+  <smurf ref="20022" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20022-B_thumb.jpg" image="./IMG/Puffi/pics/20022-B.jpg" serie="normale" datains="20130327" anno="1973">Poeta **(penna rossa)</smurf>
+  <smurf ref="20023" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20023-A_thumb.jpg" image="./IMG/Puffi/pics/20023-A.jpg" serie="normale" datains="20130327" anno="1978">Chitarrista **(chitarra rossa)</smurf>
+  <smurf ref="20023" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20023-B_thumb.jpg" image="./IMG/Puffi/pics/20023-B.jpg" serie="normale" datains="20130327" anno="1978">Chitarrista **(chitarra arancione)</smurf>
+  <smurf ref="20024" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20024-A_thumb.jpg" image="./IMG/Puffi/pics/20024-A.jpg" serie="normale" datains="20130327" anno="1978">Con lanterna **(rossa)</smurf>
+  <smurf ref="20024" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20024-C_thumb.jpg" image="./IMG/Puffi/pics/20024-C.jpg" serie="normale" datains="20130327" anno="1978">Con lanterna **gialla</smurf>
+  <smurf ref="20025" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20025-A_thumb.jpg" image="./IMG/Puffi/pics/20025-A.jpg" serie="normale" datains="20130327" anno="1978">Nuotatore **(salvagente rosso)</smurf>
+  <smurf ref="20025" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20025-B_thumb.jpg" image="./IMG/Puffi/pics/20025-B.jpg" serie="normale" datains="20130327" anno="1978">Nuotatore **(salvagente giallo)</smurf>
+  <smurf ref="20026" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20026-A_thumb.jpg" image="./IMG/Puffi/pics/20026-A.jpg" serie="normale" datains="20130610" anno="1978">Seduto</smurf>
+  <smurf ref="20027" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20027-C_thumb.jpg" image="./IMG/Puffi/pics/20027-C.jpg" serie="normale" datains="20130610" anno="1978">Pensatore</smurf>
+  <smurf ref="20028" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20028-A_thumb.jpg" image="./IMG/Puffi/pics/20028-A.jpg" serie="normale" datains="20130327" anno="1979">Giardiniere **(figura piccola)</smurf>
+  <smurf ref="20028" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20028-B_thumb.jpg" image="./IMG/Puffi/pics/20028-B.jpg" serie="normale" datains="20140317" anno="1979">Giardiniere **(figura grossa)</smurf>
+  <smurf ref="20029" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20029-A_thumb.jpg" image="./IMG/Puffi/pics/20029-A.jpg" serie="normale" datains="20130327" anno="1979">Con moneta</smurf>
+  <smurf ref="20030" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20030-A_thumb.jpg" image="./IMG/Puffi/pics/20030-A.jpg" serie="normale" datains="20130327" anno="1979">Tedoforo</smurf>
+  <smurf ref="20030" ordRef="04" tipo="pf" thumb="./IMG/Puffi/thumb/20030-D_thumb.jpg" image="./IMG/Puffi/pics/20030-D.jpg" serie="normale" datains="20130327" anno="1979">Tedoforo **(stemma belga sul petto)</smurf>
+  <smurf ref="20031" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20031-A_thumb.jpg" image="./IMG/Puffi/pics/20031-A.jpg" serie="normale" datains="20130327" anno="1979">Postino **(lettera d'amore)</smurf>
+  <smurf ref="20031" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20031-B_thumb.jpg" image="./IMG/Puffi/pics/20031-B.jpg" serie="normale" datains="20130327" anno="1979">Postino **(lettera di natale)</smurf>
+  <smurf ref="20032" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20032-A_thumb.jpg" image="./IMG/Puffi/pics/20032-A.jpg" serie="normale" datains="20130327" anno="1979">Giocatore di Hockey</smurf>
+  <smurf ref="20033" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20033-A_thumb.jpg" image="./IMG/Puffi/pics/20033-A.jpg" serie="normale" datains="20130327" anno="1979">Clown</smurf>
+  <smurf ref="20034" ordRef="02" tipo="pa" thumb="./IMG/Puffi/thumb/20034-B_thumb.jpg" image="./IMG/Puffi/pics/20034-B.jpg" serie="normale" datains="20130327" anno="1972">Puffetta **(Bully)</smurf>
+  <smurf ref="20034" ordRef="03" tipo="pa" thumb="./IMG/Puffi/thumb/20034-C_thumb.jpg" image="./IMG/Puffi/pics/20034-C.jpg" serie="normale" datains="20130327" anno="1972">Puffetta</smurf>
+  <smurf ref="20035" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20035-A_thumb.jpg" image="./IMG/Puffi/pics/20035-A.jpg" serie="normale" datains="20130327" anno="1979">Calciatore</smurf>
+  <smurf ref="20036" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20036-A_thumb.jpg" image="./IMG/Puffi/pics/20036-A.jpg" serie="normale" datains="20130327" anno="1979">Con deltaplano</smurf>
+  <smurf ref="20037" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20037-A_thumb.jpg" image="./IMG/Puffi/pics/20037-A.jpg" serie="normale" datains="20130327" anno="1979">Dottore **(termometro blu)</smurf>
+  <smurf ref="20037" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20037-B_thumb.jpg" image="./IMG/Puffi/pics/20037-B.jpg" serie="normale" datains="20130327" anno="1979">Dottore **(termometro rosso e nero)</smurf>
+  <smurf ref="20038" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20038-A_thumb.jpg" image="./IMG/Puffi/pics/20038-A.jpg" serie="normale" datains="20130327" anno="1979">Cantante</smurf>
+  <smurf ref="20039" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20039-A_thumb.jpg" image="./IMG/Puffi/pics/20039-A.jpg" serie="normale" datains="20130327" anno="1979">Con mazza</smurf>
+  <smurf ref="20040" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20040-A_thumb.jpg" image="./IMG/Puffi/pics/20040-A.jpg" serie="normale" datains="20130327" anno="1979">Con fiori e regalo</smurf>
+  <smurf ref="20040" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20040-Pied_thumb.jpg" image="./IMG/Puffi/pics/20040-Pied.jpg" serie="piedistallo" datains="20130403" anno="1979">Con fiori e regalo **(su piedistallo)</smurf>
+  <smurf ref="20041" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20041-A_thumb.jpg" image="./IMG/Puffi/pics/20041-A.jpg" serie="normale" datains="20130327" anno="1979">Viaggiatore</smurf>
+  <smurf ref="20041" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20041-B_thumb.jpg" image="./IMG/Puffi/pics/20041-B.jpg" serie="normale" datains="20130327" anno="1979">Camminatore **(fiore giallo)</smurf>
+  <smurf ref="20042" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20042-A_thumb.jpg" image="./IMG/Puffi/pics/20042-A.jpg" serie="normale" datains="20130327" anno="1979">Cuoco</smurf>
+  <smurf ref="20043" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20043-A_thumb.jpg" image="./IMG/Puffi/pics/20043-A.jpg" serie="normale" datains="20130327" anno="1979">Con vanga **(figura grossa)</smurf>
+  <smurf ref="20043" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20043-B_thumb.jpg" image="./IMG/Puffi/pics/20043-B.jpg" serie="normale" datains="20130327" anno="1979">Con vanga **(figura piccola)</smurf>
+  <smurf ref="20044" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20044-A_thumb.jpg" image="./IMG/Puffi/pics/20044-A.jpg" serie="normale" datains="20130327" anno="1979">Amante timido</smurf>
+  <smurf ref="20044" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20044-Pied_thumb.jpg" image="./IMG/Puffi/pics/20044-Pied.jpg" serie="piedistallo" datains="20140317" anno="1978">Amante timido**(su piedistallo)</smurf>
+  <smurf ref="20045" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20045-A_thumb.jpg" image="./IMG/Puffi/pics/20045-A.jpg" serie="normale" datains="20130327" anno="1979">Artista</smurf>
+  <smurf ref="20046" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20046-A_thumb.jpg" image="./IMG/Puffi/pics/20046-A.jpg" serie="normale" datains="20130327" anno="1979">Imperatore **(cappello oro)</smurf>
+  <smurf ref="20046" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20046-B_thumb.jpg" image="./IMG/Puffi/pics/20046-B.jpg" serie="normale" datains="20130327" anno="1979">Imperatore **(cappello bianco)</smurf>
+  <smurf ref="20046" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20046-C_thumb.jpg" image="./IMG/Puffi/pics/20046-C.jpg" serie="normale" datains="20130327" anno="1979">Imperatore **(plastica differente)</smurf>
+  <smurf ref="20047" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20047-A_thumb.jpg" image="./IMG/Puffi/pics/20047-A.jpg" serie="normale" datains="20130327" anno="1975">Trombettista</smurf>
+  <smurf ref="20047" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20047-B_thumb.jpg" image="./IMG/Puffi/pics/20047-B.jpg" serie="normale" datains="20130327" anno="1975">Trombettista **(pantaloni rossi)</smurf>
+  <smurf ref="20048" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20048-A_thumb.jpg" image="./IMG/Puffi/pics/20048-A.jpg" serie="normale" datains="20130327" anno="1979">Flautista</smurf>
+  <smurf ref="20049" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20049-A_thumb.jpg" image="./IMG/Puffi/pics/20049-A.jpg" serie="normale" datains="20130327" anno="1980">Tennista</smurf>
+  <smurf ref="20049" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20049-B_thumb.jPG" image="./IMG/Puffi/pics/20049-B.JPG" serie="normale" datains="20130618" anno="1980">Tennista **(racchetta marrone)</smurf>
+  <smurf ref="20050" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20050-A_thumb.jpg" image="./IMG/Puffi/pics/20050-A.jpg" serie="normale" datains="20130327" anno="1980">Che indica</smurf>
+  <smurf ref="20051" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20051-A_thumb.jpg" image="./IMG/Puffi/pics/20051-A.jpg" serie="normale" datains="20130327" anno="1980">Che gioca a bowling</smurf>
+  <smurf ref="20051" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20051-Pied_thumb.jpg" image="./IMG/Puffi/pics/20051-Pied.jpg" serie="piedistallo" datains="20130521" anno="1980">Che gioca a bowling **(su piedistallo)</smurf>
+  <smurf ref="20052" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20052-A_thumb.jpg" image="./IMG/Puffi/pics/20052-A.jpg" serie="normale" datains="20130327" anno="1980">Benzinaio</smurf>
+  <smurf ref="20053" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20053-A_thumb.jpg" image="./IMG/Puffi/pics/20053-A.jpg" serie="normale" datains="20130327" anno="1979">Con ghiacciolo **(bianco/rosso)</smurf>
+  <smurf ref="20053" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20053-C_thumb.jpg" image="./IMG/Puffi/pics/20053-C.jpg" serie="normale" datains="20130327" anno="1979">Con ghiacciolo **(giallo/rosso)</smurf>
+  <smurf ref="20053" ordRef="04" tipo="pf" thumb="./IMG/Puffi/thumb/20053-D_thumb.jpg" image="./IMG/Puffi/pics/20053-D.jpg" serie="normale" datains="20130327" anno="1979">Con ghiacciolo **(bianco/rosso e bandiera)</smurf>
+  <smurf ref="20054" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20054-A_thumb.jpg" image="./IMG/Puffi/pics/20054-A.jpg" serie="normale" datains="20130327" anno="1979">Pronto soccorso **(valigetta gialla)</smurf>
+  <smurf ref="20054" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20054-B_thumb.jpg" image="./IMG/Puffi/pics/20054-B.jpg" serie="normale" datains="20130327" anno="1979">Pronto soccorso **(valigetta gialla e croce)</smurf>
+  <smurf ref="20054" ordRef="04" tipo="pf" thumb="./IMG/Puffi/thumb/20054-D_thumb.jpg" image="./IMG/Puffi/pics/20054-D.jpg" serie="normale" datains="20130327" anno="1979">Pronto soccorso **(valigetta bianca e croce)</smurf>
+  <smurf ref="20054" ordRef="06" tipo="pf" thumb="./IMG/Puffi/thumb/20054-F_thumb.jpg" image="./IMG/Puffi/pics/20054-F.jpg" serie="normale" datains="20130327" anno="1979">Pronto soccorso **(valigetta marrone e croce)</smurf>
+  <smurf ref="20055" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20055-A_thumb.jpg" image="./IMG/Puffi/pics/20055-A.jpg" serie="normale" datains="20130327" anno="1980">Golfista **(pantaloni gialli)</smurf>
+  <smurf ref="20055" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20055-B_thumb.jPG" image="./IMG/Puffi/pics/20055-B.JPG" serie="normale" datains="20130702" anno="1980">Golfista **(pantaloni gialli e scarpe nere)</smurf>
+  <smurf ref="20055" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20055-C_thumb.jpg" image="./IMG/Puffi/pics/20055-C.jpg" serie="normale" datains="20130327" anno="1980">Golfista **(pantaloni rossi)</smurf>
+  <smurf ref="20055" ordRef="05" tipo="pf" thumb="./IMG/Puffi/thumb/20055-E_thumb.jpg" image="./IMG/Puffi/pics/20055-E.jpg" serie="normale" datains="20130327" anno="1980">Golfista **(mazza corta)</smurf>
+  <smurf ref="20056" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20056-A_thumb.jpg" image="./IMG/Puffi/pics/20056-A.jpg" serie="normale" datains="20130610" anno="1979">Giocatore di carte</smurf>
+  <smurf ref="20056" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20056-B_thumb.jpg" image="./IMG/Puffi/pics/20056-B.jpg" serie="normale" datains="20130604" anno="1979">Giocatore di carte **(asso cerchiato)</smurf>
+  <smurf ref="20056" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20056-C_thumb.jpg" image="./IMG/Puffi/pics/20056-C.jpg" serie="pubbli" datains="20130327" anno="1979">Giocatore di carte ** (pubblicità ASS)</smurf>
+  <smurf ref="20056" ordRef="04" tipo="pf" thumb="./IMG/Puffi/thumb/20056-D_thumb.jpg" image="./IMG/Puffi/pics/20056-D.jpg" serie="normale" datains="20130327" anno="1979">Giocatore di carte **(no segni)</smurf>
+  <smurf ref="20057" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20057-A_thumb.jpg" image="./IMG/Puffi/pics/20057-A.jpg" serie="pubbli" datains="20130327" anno="1980">Assetato **(pubblicità STAATL FACHINGEN)</smurf>
+  <smurf ref="20057" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20057-B_thumb.jpg" image="./IMG/Puffi/pics/20057-B.jpg" serie="normale" datains="20130610" anno="1980">Assetato **(Bottiglia rossa e cannuccia gialla)</smurf>
+  <smurf ref="20057" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20057-C_thumb.jpg" image="./IMG/Puffi/pics/20057-C.jpg" serie="normale" datains="20130327" anno="1980">Assetato **(bottiglia rossa)</smurf>
+  <smurf ref="20058" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20058-A_thumb.jpg" image="./IMG/Puffi/pics/20058-A.jpg" serie="normale" datains="20130327" anno="1980">Campione</smurf>
+  <smurf ref="20059" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20059-A_thumb.jpg" image="./IMG/Puffi/pics/20059-A.jpg" serie="normale" datains="20130327" anno="1981">Maestro</smurf>
+  <smurf ref="20060" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20060-A_thumb.jpg" image="./IMG/Puffi/pics/20060-A.jpg" serie="normale" datains="20130327" anno="1980">Con candela</smurf>
+  <smurf ref="20061" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20061-A_thumb.jpg" image="./IMG/Puffi/pics/20061-A.jpg" serie="normale" datains="20130327" anno="1981">Capo banda</smurf>
+  <smurf ref="20062" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20062-A_thumb.jpg" image="./IMG/Puffi/pics/20062-A.jpg" serie="normale" datains="20130327" anno="1981">Al telefono **(posacornetta spesso)</smurf>
+  <smurf ref="20062" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20062-B_thumb.jpg" image="./IMG/Puffi/pics/20062-B.jpg" serie="normale" datains="20130327" anno="1981">Al telefono **(posacornetta sottile)</smurf>
+  <smurf ref="20063" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20063-A_thumb.jpg" image="./IMG/Puffi/pics/20063-A.jpg" serie="normale" datains="20130610" anno="1980">Sarto</smurf>
+  <smurf ref="20064" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20064-A_thumb.jpg" image="./IMG/Puffi/pics/20064-A.jpg" serie="normale" datains="20130327" anno="1980">Che si lava i denti **(dentifricio corto)</smurf>
+  <smurf ref="20064" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20064-B_thumb.jpg" image="./IMG/Puffi/pics/20064-B.jpg" serie="normale" datains="20130327" anno="1980">Che si lava i denti **(dentifricio lungo)</smurf>
+  <smurf ref="20064" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20064-Port_thumb.jpg" image="./IMG/Puffi/pics/20064-Port.jpg" serie="portachiave" datains="20130327" anno="1980">Che si lava i denti **(portachiavi)</smurf>
+  <smurf ref="20065" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20065-A_thumb.jpg" image="./IMG/Puffi/pics/20065-A.jpg" serie="normale" datains="20130610" anno="1981">Rugbista</smurf>
+  <smurf ref="20066" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20066-A_thumb.jpg" image="./IMG/Puffi/pics/20066-A.jpg" serie="normale" datains="20130327" anno="1981">Giocatore di cricket</smurf>
+  <smurf ref="20067" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20067-A_thumb.jpg" image="./IMG/Puffi/pics/20067-A.jpg" serie="normale" datains="20130327" anno="1980">Congratulazioni</smurf>
+  <smurf ref="20068" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20068-A_thumb.jpg" image="./IMG/Puffi/pics/20068-A.jpg" serie="normale" datains="20130327" anno="1974">Calciatore</smurf>
+  <smurf ref="20069" ordRef="01" tipo="ap" thumb="./IMG/Puffi/thumb/20069-A_thumb.jpg" image="./IMG/Puffi/pics/20069-A.jpg" serie="normale" datains="20140317" anno="1974">Indigeno</smurf>
+  <smurf ref="20070" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20070-A_thumb.jpg" image="./IMG/Puffi/pics/20070-A.jpg" serie="normale" datains="20130327" anno="1974">Con cetra</smurf>
+  <smurf ref="20070" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20070-C_thumb.jpg" image="./IMG/Puffi/pics/20070-C.jpg" serie="normale" datains="20130327" anno="1974">Con cetra **(arancione)</smurf>
+  <smurf ref="20071" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20071-A_thumb.jpg" image="./IMG/Puffi/pics/20071-A.jpg" serie="normale" datains="20130403" anno="1974">Volante</smurf>
+  <smurf ref="20072" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20072-A_thumb.jpg" image="./IMG/Puffi/pics/20072-A.jpg" serie="normale" datains="20130327" anno="1974">Trombettiere</smurf>
+  <smurf ref="20073" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20073-A_thumb.jpg" image="./IMG/Puffi/pics/20073-A.jpg" serie="normale" datains="20130327" anno="1974">Cuoco</smurf>
+  <smurf ref="20074" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20074-A_thumb.jpg" image="./IMG/Puffi/pics/20074-A.jpg" serie="normale" datains="20130327" anno="1974">Re</smurf>
+  <smurf ref="20075" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20075-A_thumb.jpg" image="./IMG/Puffi/pics/20075-A.jpg" serie="normale" datains="20130327" anno="1974">Quacchero</smurf>
+  <smurf ref="20076" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20076-A_thumb.jpg" image="./IMG/Puffi/pics/20076-A.jpg" serie="normale" datains="20130327" anno="1974">Corteggiatore</smurf>
+  <smurf ref="20076" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20076-B_thumb.jpg" image="./IMG/Puffi/pics/20076-B.jpg" serie="normale" datains="20130327" anno="1974">Corteggiatore **(centro fiore arancione)</smurf>
+  <smurf ref="20077" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20077-A_thumb.jpg" image="./IMG/Puffi/pics/20077-A.jpg" serie="normale" datains="20130327" anno="1974">Che sbeffeggia</smurf>
+  <smurf ref="20078" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20078-A_thumb.jpg" image="./IMG/Puffi/pics/20078-A.jpg" serie="normale" datains="20130327" anno="1975">Con birra</smurf>
+  <smurf ref="20078" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20078-B_thumb.jpg" image="./IMG/Puffi/pics/20078-B.jpg" serie="normale" datains="20130327" anno="1975">Con birra</smurf>
+  <smurf ref="20078" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20078-C_thumb.jpg" image="./IMG/Puffi/pics/20078-C.jpg" serie="normale" datains="20130327" anno="1975">Con birra **(boccale arancione)</smurf>
+  <smurf ref="20079" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20079-A_thumb.jpg" image="./IMG/Puffi/pics/20079-A.jpg" serie="normale" datains="20130610" anno="1975">Che ride</smurf>
+  <smurf ref="20080" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20080-A_thumb.jpg" image="./IMG/Puffi/pics/20080-A.jpg" serie="normale" datains="20130327" anno="1975">Con biscotto</smurf>
+  <smurf ref="20081" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20081-A_thumb.jpg" image="./IMG/Puffi/pics/20081-A.jpg" serie="normale" datains="20130327" anno="1975">Tirolese</smurf>
+  <smurf ref="20082" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20082-A_thumb.jpg" image="./IMG/Puffi/pics/20082-A.jpg" serie="normale" datains="20130327" anno="1975">Timido</smurf>
+  <smurf ref="20083" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20083-A_thumb.jpg" image="./IMG/Puffi/pics/20083-A.jpg" serie="normale" datains="20130327" anno="1975">Con martello</smurf>
+  <smurf ref="20084" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20084-A_thumb.jpg" image="./IMG/Puffi/pics/20084-A.jpg" serie="normale" datains="20130327" anno="1976">Sulle mani **(costume giallo)</smurf>
+  <smurf ref="20084" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20084-B_thumb.jpg" image="./IMG/Puffi/pics/20084-B.jpg" serie="normale" datains="20130327" anno="1976">Sulle mani **(costume rosso)</smurf>
+  <smurf ref="20085" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20085-A_thumb.jpg" image="./IMG/Puffi/pics/20085-A.jpg" serie="normale" datains="20130327" anno="1976">Seduto su cuscino</smurf>
+  <smurf ref="20085" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20085-B_thumb.jpg" image="./IMG/Puffi/pics/20085-B.jpg" serie="normale" datains="20130327" anno="1976">Seduto su cuscino **(lucido)</smurf>
+  <smurf ref="20086" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20086-A_thumb.jpg" image="./IMG/Puffi/pics/20086-A.jpg" serie="normale" datains="20130327" anno="1976">Con pacco regalo</smurf>
+  <smurf ref="20087" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20087-A_thumb.jpg" image="./IMG/Puffi/pics/20087-A.jpg" serie="normale" datains="20130327" anno="1976">Con ascia</smurf>
+  <smurf ref="20088" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20088-A_thumb.jpg" image="./IMG/Puffi/pics/20088-A.jpg" serie="normale" datains="20130327" anno="1976">Vagabondo</smurf>
+  <smurf ref="20089" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20089-A_thumb.jpg" image="./IMG/Puffi/pics/20089-A.jpg" serie="normale" datains="20130327" anno="1977">Pittore</smurf>
+  <smurf ref="20090" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20090-A_thumb.jpg" image="./IMG/Puffi/pics/20090-A.jpg" serie="normale" datains="20130327" anno="1977">Jester</smurf>
+  <smurf ref="20091" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20091-A_thumb.jpg" image="./IMG/Puffi/pics/20091-A.jpg" serie="normale" datains="20130327" anno="1977">Sciatore</smurf>
+  <smurf ref="20092" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20092-A_thumb.jpg" image="./IMG/Puffi/pics/20092-A.jpg" serie="normale" datains="20130327" anno="1978">Direttore d'orchestra</smurf>
+  <smurf ref="20093" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20093-A_thumb.jpg" image="./IMG/Puffi/pics/20093-A.jpg" serie="normale" datains="20130327" anno="1978">Tennista che batte</smurf>
+  <smurf ref="20094" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20094-A_thumb.jpg" image="./IMG/Puffi/pics/20094-A.jpg" serie="normale" datains="20130327" anno="1978">Studioso con libro</smurf>
+  <smurf ref="20095" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20095-A_thumb.jpg" image="./IMG/Puffi/pics/20095-A.jpg" serie="normale" datains="20130327" anno="1979">Oboista</smurf>
+  <smurf ref="20095" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20095-B_thumb.jpg" image="./IMG/Puffi/pics/20095-B.jpg" serie="normale" datains="20140317" anno="1978">Oboista**(strumento arancione)</smurf>
+  <smurf ref="20096" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20096-A_thumb.jpg" image="./IMG/Puffi/pics/20096-A.jpg" serie="normale" datains="20130327" anno="1979">Con mazza nascosta</smurf>
+  <smurf ref="20096" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20096-B_thumb.jpg" image="./IMG/Puffi/pics/20096-B.jpg" serie="normale" datains="20130327" anno="1979">Con mazza nascosta **(più chiara)</smurf>
+  <smurf ref="20096" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20096-Cust_thumb.jpg" image="./IMG/Puffi/pics/20096-Cust.jpg" serie="custom" datains="20130327" anno="1979">Con mazza nascosta **(custom)</smurf>
+  <smurf ref="20097" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20097-A_thumb.jpg" image="./IMG/Puffi/pics/20097-A.jpg" serie="normale" datains="20130327" anno="1979">Infortunato</smurf>
+  <smurf ref="20098" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20098-A_thumb.jpg" image="./IMG/Puffi/pics/20098-A.jpg" serie="normale" datains="20130327" anno="1978">Ballerina</smurf>
+  <smurf ref="20099" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20099-A_thumb.jpg" image="./IMG/Puffi/pics/20099-A.jpg" serie="normale" datains="20130327" anno="1978">Capo cuoco</smurf>
+  <smurf ref="20100" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20100-A_thumb.jpg" image="./IMG/Puffi/pics/20100-A.jpg" serie="normale" datains="20130327" anno="1978">Con torta</smurf>
+  <smurf ref="20101" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20101-A_thumb.jpg" image="./IMG/Puffi/pics/20101-A.jpg" serie="normale" datains="20130327" anno="1980">Pescatore</smurf>
+  <smurf ref="20101" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20101-B_thumb.jpg" image="./IMG/Puffi/pics/20101-B.jpg" serie="normale" datains="20130327" anno="1980">Pescatore **(canna e filo gialli)</smurf>
+  <smurf ref="20102" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20102-A_thumb.jpg" image="./IMG/Puffi/pics/20102-A.jpg" serie="normale" datains="20130327" anno="1980">Arcere</smurf>
+  <smurf ref="20102" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20102-B_thumb.jpg" image="./IMG/Puffi/pics/20102-B.jpg" serie="normale" datains="20130327" anno="1980">Arcere **(arco e frecce staccabili)</smurf>
+  <smurf ref="20103" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20103-A_thumb.jpg" image="./IMG/Puffi/pics/20103-A.jpg" serie="normale" datains="20130327" anno="1980">Allievo</smurf>
+  <smurf ref="20104" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20104-A_thumb.jpg" image="./IMG/Puffi/pics/20104-A.jpg" serie="normale" datains="20130327" anno="1980">Pirata **(cintura rossa)</smurf>
+  <smurf ref="20105" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20105-A_thumb.jpg" image="./IMG/Puffi/pics/20105-A.jpg" serie="normale" datains="20130610" anno="1980">Scozzese</smurf>
+  <smurf ref="20106" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20106-A_thumb.jpg" image="./IMG/Puffi/pics/20106-A.jpg" serie="normale" datains="20130327" anno="1981">Cacciatore</smurf>
+  <smurf ref="20107" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20107-A_thumb.jpg" image="./IMG/Puffi/pics/20107-A.jpg" serie="normale" datains="20130327" anno="1981">Carnevale</smurf>
+  <smurf ref="20108" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20108-A_thumb.jpg" image="./IMG/Puffi/pics/20108-A.jpg" serie="normale" datains="20130327" anno="1981">Sauna</smurf>
+  <smurf ref="20109" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20109-A_thumb.jpg" image="./IMG/Puffi/pics/20109-A.jpg" serie="normale" datains="20130327" anno="1981">Guardia</smurf>
+  <smurf ref="20110" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20110-A_thumb.jpg" image="./IMG/Puffi/pics/20110-A.jpg" serie="normale" datains="20130327" anno="1981">Barbiere</smurf>
+  <smurf ref="20111" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20111-A_thumb.jpg" image="./IMG/Puffi/pics/20111-A.jpg" serie="normale" datains="20130327" anno="1981">Cupido</smurf>
+  <smurf ref="20112" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20112-A_thumb.jpg" image="./IMG/Puffi/pics/20112-A.jpg" serie="normale" datains="20130327" anno="1981">Falegname</smurf>
+  <smurf ref="20113" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20113-A_thumb.jpg" image="./IMG/Puffi/pics/20113-A.jpg" serie="normale" datains="20130327" anno="1981">Fornaio **(panetto tondo)</smurf>
+  <smurf ref="20113" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20113-B_thumb.jpg" image="./IMG/Puffi/pics/20113-B.jpg" serie="normale" datains="20130327" anno="1981">Fornaio **(panetto rettangolare)</smurf>
+  <smurf ref="20114" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20114-A_thumb.jpg" image="./IMG/Puffi/pics/20114-A.jpg" serie="normale" datains="20130521" anno="1981">Mago **(cappello nero)</smurf>
+  <smurf ref="20115" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20115-A_thumb.jpg" image="./IMG/Puffi/pics/20115-A.jpg" serie="normale" datains="20130327" anno="1981">Domatore **(sgabello giallo)</smurf>
+  <smurf ref="20115" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20115-B_thumb.jpg" image="./IMG/Puffi/pics/20115-B.jpg" serie="normale" datains="20130327" anno="1981">Domatore **(sgabello verde)</smurf>
+  <smurf ref="20116" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20116-A_thumb.jpg" image="./IMG/Puffi/pics/20116-A.jpg" serie="normale" datains="20130327" anno="1981">Alchimista</smurf>
+  <smurf ref="20116" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20116-B_thumb.jpg" image="./IMG/Puffi/pics/20116-B.jpg" serie="normale" datains="20130327" anno="1981">Alchimista **(fumo bianco)</smurf>
+  <smurf ref="20116" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20116-C_thumb.jpg" image="./IMG/Puffi/pics/20116-C.jpg" serie="normale" datains="20130327" anno="1981">Alchimista **(fumo verde chiaro)</smurf>
+  <smurf ref="20117" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20117-A_thumb.jpg" image="./IMG/Puffi/pics/20117-A.jpg" serie="normale" datains="20130327" anno="1981">Con cornucopia</smurf>
+  <smurf ref="20118" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20118-A_thumb.jpg" image="./IMG/Puffi/pics/20118-A.jpg" serie="normale" datains="20130327" anno="1981">Con ombrello-fungo</smurf>
+  <smurf ref="20119" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20119-A_thumb.jpg" image="./IMG/Puffi/pics/20119-A.jpg" serie="normale" datains="20130327" anno="1981">Smurferman</smurf>
+  <smurf ref="20119" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20119-B_thumb.jpg" image="./IMG/Puffi/pics/20119-B.jpg" serie="normale" datains="20130610" anno="1981">Smurferman **(base gialla e scarpe bianche)</smurf>
+  <smurf ref="20120" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20120-A_thumb.jpg" image="./IMG/Puffi/pics/20120-A.jpg" serie="normale" datains="20130327" anno="1981">Con maschera e boccaglio</smurf>
+  <smurf ref="20121" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20121-A_thumb.jpg" image="./IMG/Puffi/pics/20121-A.jpg" serie="normale" datains="20130327" anno="1981">Pattinatore caduto</smurf>
+  <smurf ref="20122" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20122-A_thumb.jpg" image="./IMG/Puffi/pics/20122-A.jpg" serie="normale" datains="20130327" anno="1982">Cowboy **(corda beige)</smurf>
+  <smurf ref="20122" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20122-B_thumb.jpg" image="./IMG/Puffi/pics/20122-B.jpg" serie="normale" datains="20130327" anno="1982">Cowboy **(corda bianca)</smurf>
+  <smurf ref="20123" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20123-A_thumb.jpg" image="./IMG/Puffi/pics/20123-A.jpg" serie="normale" datains="20130327" anno="1982">Poliziotto **(Bianco)</smurf>
+  <smurf ref="20123" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20123-B_thumb.jpg" image="./IMG/Puffi/pics/20123-B.jpg" serie="normale" datains="20130327" anno="1982">Poliziotto **(Nero)</smurf>
+  <smurf ref="20124" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20124-A_thumb.jpg" image="./IMG/Puffi/pics/20124-A.jpg" serie="normale" datains="20130327" anno="1982">Babbo Natale **(corno giallo)</smurf>
+  <smurf ref="20124" ordRef="02" tipo="gp" thumb="./IMG/Puffi/thumb/20124-B_thumb.jpg" image="./IMG/Puffi/pics/20124-B.jpg" serie="normale" datains="20130327" anno="1982">Babbo natale **(corno bianco)</smurf>
+  <smurf ref="20126" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20126-A_thumb.jpg" image="./IMG/Puffi/pics/20126-A.jpg" serie="normale" datains="20130327" anno="1982">Pattinatrice a rotelle</smurf>
+  <smurf ref="20127" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20127-B_thumb.jpg" image="./IMG/Puffi/pics/20127-B.jpg" serie="normale" datains="20130327" anno="1982">Superpuffo **(base gialla)</smurf>
+  <smurf ref="20127" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20127-C_thumb.jpg" image="./IMG/Puffi/pics/20127-C.jpg" serie="normale" datains="20130327" anno="1982">Superpuffo **(base gialla e mantello giallo oro)</smurf>
+  <smurf ref="20128" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20128-A_thumb.jpg" image="./IMG/Puffi/pics/20128-A.jpg" serie="normale" datains="20130327" anno="1982">Amore</smurf>
+  <smurf ref="20128" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20128-B_thumb.jpg" image="./IMG/Puffi/pics/20128-B.jpg" serie="normale" datains="20130327" anno="1982">Amore **(freccia e arco arancio)</smurf>
+  <smurf ref="20128" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20128-C_thumb.jpg" image="./IMG/Puffi/pics/20128-C.jpg" serie="normale" datains="20130327" anno="1982">Amore **(freccia e arco verde)</smurf>
+  <smurf ref="20129" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20129-A_thumb.jpg" image="./IMG/Puffi/pics/20129-A.jpg" serie="normale" datains="20130327" anno="1982">Battitore baseball **(senza numero)</smurf>
+  <smurf ref="20129" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20129-B_thumb.jpg" image="./IMG/Puffi/pics/20129-B.jpg" serie="normale" datains="20130327" anno="1982">Battitore baseball **(con numero)</smurf>
+  <smurf ref="20129" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20129-C_thumb.jpg" image="./IMG/Puffi/pics/20129-C.jpg" serie="pubbli" datains="20130327" anno="1982">Battitore **(pubblicità SILAN)</smurf>
+  <smurf ref="20130" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20130-A_thumb.jpg" image="./IMG/Puffi/pics/20130-A.jpg" serie="normale" datains="20130327" anno="1982">Laureato **(amaranto)</smurf>
+  <smurf ref="20130" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20130-B_thumb.jpg" image="./IMG/Puffi/pics/20130-B.jpg" serie="normale" datains="20130327" anno="1982">Laureato **(azzurro)</smurf>
+  <smurf ref="20130" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20130-C_thumb.jpg" image="./IMG/Puffi/pics/20130-C.jpg" serie="normale" datains="20130327" anno="1982">Laureato **(amaranto lucido)</smurf>
+  <smurf ref="20131" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20131-A_thumb.jpg" image="./IMG/Puffi/pics/20131-A.jpg" serie="normale" datains="20130327" anno="1982">Con patatine</smurf>
+  <smurf ref="20132" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20132-A_thumb.jpg" image="./IMG/Puffi/pics/20132-A.jpg" serie="normale" datains="20130327" anno="1982">Quarterback **(senza numero)</smurf>
+  <smurf ref="20132" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20132-B_thumb.jpg" image="./IMG/Puffi/pics/20132-B.jpg" serie="normale" datains="20130327" anno="1982">Quarterback **(con numero)</smurf>
+  <smurf ref="20133" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20133-A_thumb.jpg" image="./IMG/Puffi/pics/20133-A.jpg" serie="normale" datains="20130327" anno="1982">Hockey sul prato</smurf>
+  <smurf ref="20134" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20134-A_thumb.jpg" image="./IMG/Puffi/pics/20134-A.jpg" serie="normale" datains="20130327" anno="1982">Judoka</smurf>
+  <smurf ref="20135" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20135-A_thumb.jpg" image="./IMG/Puffi/pics/20135-A.jpg" serie="normale" datains="20130327" anno="1982">Tennista</smurf>
+  <smurf ref="20135" ordRef="02" tipo="pa" thumb="./IMG/Puffi/thumb/20135-B_thumb.jpg" image="./IMG/Puffi/pics/20135-B.jpg" serie="normale" datains="20130327" anno="1982">Tennista</smurf>
+  <smurf ref="20136" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20136-A_thumb.jpg" image="./IMG/Puffi/pics/20136-A.jpg" serie="normale" datains="20130725" anno="1982">Con zucca di halloween</smurf>
+  <smurf ref="20137" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20137-A_thumb.jpg" image="./IMG/Puffi/pics/20137-A.jpg" serie="normale" datains="20130327" anno="1983">Surfista **(tavola lunga)</smurf>
+  <smurf ref="20137" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20137-B_thumb.jpg" image="./IMG/Puffi/pics/20137-B.jpg" serie="normale" datains="20130327" anno="1983">Surfista **(tavola corta)</smurf>
+  <smurf ref="20138" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20138-A_thumb.jpg" image="./IMG/Puffi/pics/20138-A.jpg" serie="normale" datains="20130327" anno="1984">Con Rastrello **(cappello giallo)</smurf>
+  <smurf ref="20138" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20138-B_thumb.jpg" image="./IMG/Puffi/pics/20138-B.jpg" serie="normale" datains="20130327" anno="1984">Con rastrello **(cappello beige)</smurf>
+  <smurf ref="20139" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20139-A_thumb.jpg" image="./IMG/Puffi/pics/20139-A.jpg" serie="normale" datains="20130327" anno="1983">Infermiera **(grembiule bianco)</smurf>
+  <smurf ref="20139" ordRef="02" tipo="pa" thumb="./IMG/Puffi/thumb/20139-B_thumb.jpg" image="./IMG/Puffi/pics/20139-B.jpg" serie="normale" datains="20130327" anno="1983">Infermiera **(grembiule azzurro)</smurf>
+  <smurf ref="20140" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20140-A_thumb.jpg" image="./IMG/Puffi/pics/20140-A.jpg" serie="normale" datains="20130327" anno="1983">Segretaria **(vestito bianco)</smurf>
+  <smurf ref="20140" ordRef="02" tipo="pa" thumb="./IMG/Puffi/thumb/20140-B_thumb.jpg" image="./IMG/Puffi/pics/20140-B.jpg" serie="normale" datains="20130327" anno="1983">Segretaria **(vestito rosa)</smurf>
+  <smurf ref="20141" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20141-A_thumb.jpg" image="./IMG/Puffi/pics/20141-A.jpg" serie="normale" datains="20130327" anno="1983">Capitano di nave</smurf>
+  <smurf ref="20142" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20142-A_thumb.jpg" image="./IMG/Puffi/pics/20142-A.jpg" serie="normale" datains="20130327" anno="1983">Sirena **(coda argentata)</smurf>
+  <smurf ref="20142" ordRef="02" tipo="pa" thumb="./IMG/Puffi/thumb/20142-B_thumb.jpg" image="./IMG/Puffi/pics/20142-B.jpg" serie="normale" datains="20130327" anno="1983">Sirena **(coda verde)</smurf>
+  <smurf ref="20143" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20143-A_thumb.jpg" image="./IMG/Puffi/pics/20143-A.jpg" serie="normale" datains="20130327" anno="1983">Radioamatore **(baracchino argento)</smurf>
+  <smurf ref="20143" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20143-B_thumb.jpg" image="./IMG/Puffi/pics/20143-B.jpg" serie="normale" datains="20130327" anno="1983">Radioamatore **(baracchino nero)</smurf>
+  <smurf ref="20144" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20144-A_thumb.jpg" image="./IMG/Puffi/pics/20144-A.jpg" serie="normale" datains="20130327" anno="1983">Capo indiano **(penne colorate)</smurf>
+  <smurf ref="20144" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20144-B_thumb.jpg" image="./IMG/Puffi/pics/20144-B.jpg" serie="normale" datains="20130327" anno="1983">Capo indiano **(penne nere)</smurf>
+  <smurf ref="20144" ordRef="03" tipo="pf" thumb="./IMG/Puffi/thumb/20144-Temp_thumb.jpg" image="./IMG/Puffi/pics/20144-Temp.jpg" serie="temperino" datains="20130327" anno="1983">Capo Indiano **(Temperino)</smurf>
+  <smurf ref="20145" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20145-A_thumb.jpg" image="./IMG/Puffi/pics/20145-A.jpg" serie="normale" datains="20130327" anno="1983">Agricoltore</smurf>
+  <smurf ref="20146" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20146-A_thumb.jpg" image="./IMG/Puffi/pics/20146-A.jpg" serie="normale" datains="20130327" anno="1983">Ricevitore</smurf>
+  <smurf ref="20147" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20147-A_thumb.jpg" image="./IMG/Puffi/pics/20147-A.jpg" serie="normale" datains="20130521" anno="1984">Cowgirl</smurf>
+  <smurf ref="20148" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20148-A_thumb.jpg" image="./IMG/Puffi/pics/20148-A.jpg" serie="normale" datains="20130327" anno="1984">Muratore **(pantaloni bianchi)</smurf>
+  <smurf ref="20148" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20148-B_thumb.jpg" image="./IMG/Puffi/pics/20148-B.jpg" serie="normale" datains="20130327" anno="1984">Muratore **(tuta blu)</smurf>
+  <smurf ref="20150" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20150-A_thumb.jpg" image="./IMG/Puffi/pics/20150-A.jpg" serie="normale" datains="20130527" anno="1981">Football australiano</smurf>
+  <smurf ref="20151" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20151-A_thumb.jpg" image="./IMG/Puffi/pics/20151-A.jpg" serie="normale" datains="20130327" anno="1982">Laureata</smurf>
+  <smurf ref="20152" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20152-A_thumb.jpg" image="./IMG/Puffi/pics/20152-A.jpg" serie="normale" datains="20130327" anno="1983">Mugnaio</smurf>
+  <smurf ref="20153" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20153-A_thumb.jpg" image="./IMG/Puffi/pics/20153-A.jpg" serie="normale" datains="20130327" anno="1982">Con regalo di natale</smurf>
+  <smurf ref="20154" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20154-A_thumb.jpg" image="./IMG/Puffi/pics/20154-A.jpg" serie="normale" datains="20130327" anno="1984">Con paletta</smurf>
+  <smurf ref="20155" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20155-A_thumb.jpg" image="./IMG/Puffi/pics/20155-A.jpg" serie="normale" datains="20130327" anno="1984">Con segnale stradale</smurf>
+  <smurf ref="20156" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20156-A_thumb.jpg" image="./IMG/Puffi/pics/20156-A.jpg" serie="normale" datains="20130327" anno="1984">San Valentina</smurf>
+  <smurf ref="20157" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20157-A_thumb.jpg" image="./IMG/Puffi/pics/20157-A.jpg" serie="normale" datains="20130327" anno="1984">Brontolone</smurf>
+  <smurf ref="20158" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20158-A_thumb.jpg" image="./IMG/Puffi/pics/20158-A.jpg" serie="normale" datains="20130327" anno="1984">Con hamburger</smurf>
+  <smurf ref="20159" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20159-A_thumb.jpg" image="./IMG/Puffi/pics/20159-A.jpg" serie="normale" datains="20130327" anno="1984">Violinista western</smurf>
+  <smurf ref="20160" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20160-A_thumb.jpg" image="./IMG/Puffi/pics/20160-A.jpg" serie="normale" datains="20130327" anno="1984">Con mela</smurf>
+  <smurf ref="20160" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20160-B_thumb.jpg" image="./IMG/Puffi/pics/20160-B.jpg" serie="normale" datains="20130327" anno="1984">Con mela **(rossa #1 teacher)</smurf>
+  <smurf ref="20161" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20161-A_thumb.jpg" image="./IMG/Puffi/pics/20161-A.jpg" serie="normale" datains="20130327" anno="1984">Con cornucopia</smurf>
+  <smurf ref="20162" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20162-A_thumb.jpg" image="./IMG/Puffi/pics/20162-A.jpg" serie="normale" datains="20130327" anno="1984">Cameriere **(bicchiere bianco)</smurf>
+  <smurf ref="20162" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20162-B_thumb.jpg" image="./IMG/Puffi/pics/20162-B.jpg" serie="normale" datains="20130327" anno="1984">Cameriere **(bicchiere rosso)</smurf>
+  <smurf ref="20163" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20163-A_thumb.jpg" image="./IMG/Puffi/pics/20163-A.jpg" serie="normale" datains="20130327" anno="1985">Calciatrice</smurf>
+  <smurf ref="20164" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20164-A_thumb.jpg" image="./IMG/Puffi/pics/20164-A.jpg" serie="normale" datains="20130327" anno="1985">Grande puffo con provette **(verde e rossa)</smurf>
+  <smurf ref="20164" ordRef="02" tipo="gp" thumb="./IMG/Puffi/thumb/20164-B_thumb.jpg" image="./IMG/Puffi/pics/20164-B.jpg" serie="normale" datains="20130327" anno="1985">Grande puffo con provette **(verde e arancione)</smurf>
+  <smurf ref="20165" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20165-A_thumb.jpg" image="./IMG/Puffi/pics/20165-A.jpg" serie="normale" datains="20130327" anno="1985">Golosone</smurf>
+  <smurf ref="20167" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20167-A_thumb.jpg" image="./IMG/Puffi/pics/20167-A.jpg" serie="normale" datains="20130327" anno="1985">Indianina</smurf>
+  <smurf ref="20168" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20168-A_thumb.jpg" image="./IMG/Puffi/pics/20168-A.jpg" serie="normale" datains="20130327" anno="1985">Con corda per saltare</smurf>
+  <smurf ref="20169" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20169-A_thumb.jpg" image="./IMG/Puffi/pics/20169-A.jpg" serie="normale" datains="20130327" anno="1985">Con hot-dog</smurf>
+  <smurf ref="20170" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20170-A_thumb.jpg" image="./IMG/Puffi/pics/20170-A.jpg" serie="normale" datains="20130327" anno="1984">Quarterback</smurf>
+  <smurf ref="20171" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20171-A_thumb.jpg" image="./IMG/Puffi/pics/20171-A.jpg" serie="normale" datains="20130327" anno="1985">Aggiustatutto</smurf>
+  <smurf ref="20172" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20172-A_thumb.jpg" image="./IMG/Puffi/pics/20172-A.jpg" serie="normale" datains="20130327" anno="1985">Corridore **(scarpe rosse)</smurf>
+  <smurf ref="20172" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20172-B_thumb.jpg" image="./IMG/Puffi/pics/20172-B.jpg" serie="normale" datains="20130327" anno="1985">Corridore **(scarpe azzurre)</smurf>
+  <smurf ref="20173" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20173-B_thumb.jpg" image="./IMG/Puffi/pics/20173-B.jpg" serie="normale" datains="20130327" anno="1985">Scolara</smurf>
+  <smurf ref="20174" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20174-A_thumb.jpg" image="./IMG/Puffi/pics/20174-A.jpg" serie="normale" datains="20130327" anno="1985">Con libro di magia</smurf>
+  <smurf ref="20175" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20175-A_thumb.jpg" image="./IMG/Puffi/pics/20175-A.jpg" serie="normale" datains="20130327" anno="1985">Meccanizzato</smurf>
+  <smurf ref="20176" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20176-A_thumb.jpg" image="./IMG/Puffi/pics/20176-A.jpg" serie="normale" datains="20130327" anno="1983">San Patrizio</smurf>
+  <smurf ref="20177" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20177-A_thumb.jpg" image="./IMG/Puffi/pics/20177-A.jpg" serie="normale" datains="20130327" anno="1985">Con tacchino per il giorno del ringraziamento</smurf>
+  <smurf ref="20178" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20178-A_thumb.jpg" image="./IMG/Puffi/pics/20178-A.jpg" serie="normale" datains="20130327" anno="1985">Guida</smurf>
+  <smurf ref="20179" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20179-A_thumb.jpg" image="./IMG/Puffi/pics/20179-A.jpg" serie="normale" datains="20130327" anno="1985">Baby puffo bianco con sonaglio</smurf>
+  <smurf ref="20180" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20180-A_thumb.jpg" image="./IMG/Puffi/pics/20180-A.jpg" serie="normale" datains="20130327" anno="1985">Grande Puffo pizzaiolo</smurf>
+  <smurf ref="20181" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/20181-A_thumb.jpg" image="./IMG/Puffi/pics/20181-A.jpg" serie="normale" datains="20130327" anno="1985">Gargamella con retino</smurf>
+  <smurf ref="20182" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20182-A_thumb.jpg" image="./IMG/Puffi/pics/20182-A.jpg" serie="normale" datains="20130327" anno="1985">Con spazzola e specchio</smurf>
+  <smurf ref="20183" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20183-A_thumb.jpg" image="./IMG/Puffi/pics/20183-A.jpg" serie="normale" datains="20130327" anno="1985">Aerobica</smurf>
+  <smurf ref="20184" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20184-A_thumb.jpg" image="./IMG/Puffi/pics/20184-A.jpg" serie="normale" datains="20130327" anno="1986">Torero</smurf>
+  <smurf ref="20185" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20185-A_thumb.jpg" image="./IMG/Puffi/pics/20185-A.jpg" serie="normale" datains="20130327" anno="1986">Marinaio</smurf>
+  <smurf ref="20186" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20186-A_thumb.jpg" image="./IMG/Puffi/pics/20186-A.jpg" serie="normale" datains="20130521" anno="1985">Puffetta Baseball</smurf>
+  <smurf ref="20187" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20187-A_thumb.jpg" image="./IMG/Puffi/pics/20187-A.jpg" serie="normale" datains="20130327" anno="1985">Idraulico</smurf>
+  <smurf ref="20188" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20188-A_thumb.jpg" image="./IMG/Puffi/pics/20188-A.jpg" serie="normale" datains="20130327" anno="1986">Majorette **(scarpe lilla)</smurf>
+  <smurf ref="20188" ordRef="02" tipo="pa" thumb="./IMG/Puffi/thumb/20188-B_thumb.jpg" image="./IMG/Puffi/pics/20188-B.jpg" serie="normale" datains="20130327" anno="1986">Majorette **(scarpe rosa)</smurf>
+  <smurf ref="20189" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20189-A_thumb.jpg" image="./IMG/Puffi/pics/20189-A.jpg" serie="normale" datains="20130327" anno="1985">Pulitore</smurf>
+  <smurf ref="20190" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20190-A_thumb.jpg" image="./IMG/Puffi/pics/20190-A.jpg" serie="normale" datains="20130327" anno="1985">Con cono gelato **(giallo/viola/rosa)</smurf>
+  <smurf ref="20190" ordRef="02" tipo="pa" thumb="./IMG/Puffi/thumb/20190-B_thumb.jpg" image="./IMG/Puffi/pics/20190-B.jpg" serie="normale" datains="20130327" anno="1985">Con cono gelato **(giallo/fucsia/rosa)</smurf>
+  <smurf ref="20191" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20191-A_thumb.jpg" image="./IMG/Puffi/pics/20191-A.jpg" serie="normale" datains="20130327" anno="1986">Arbitro</smurf>
+  <smurf ref="20192" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20192-A_thumb.jpg" image="./IMG/Puffi/pics/20192-A.jpg" serie="normale" datains="20130327" anno="1985">Con baby puffo</smurf>
+  <smurf ref="20193" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20193-B_thumb.jpg" image="./IMG/Puffi/pics/20193-B.jpg" serie="normale" datains="20130327" anno="1985">Con secchio e scopa **(grigio chiara)</smurf>
+  <smurf ref="20194" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20194-A_thumb.jpg" image="./IMG/Puffi/pics/20194-A.jpg" serie="normale" datains="20130327" anno="1986">Jogging</smurf>
+  <smurf ref="20196" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20196-A_thumb.jpg" image="./IMG/Puffi/pics/20196-A.jpg" serie="normale" datains="20130327" anno="1986">Con torta per il giorno del ringraziamento</smurf>
+  <smurf ref="20197" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20197-A_thumb.jpg" image="./IMG/Puffi/pics/20197-A.jpg" serie="normale" datains="20130327" anno="1986">Indiano con pannocchia</smurf>
+  <smurf ref="20198" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20198-A_thumb.jpg" image="./IMG/Puffi/pics/20198-A.jpg" serie="normale" datains="20130327" anno="1986">Strega</smurf>
+  <smurf ref="20199" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20199-A_thumb.jpg" image="./IMG/Puffi/pics/20199-A.jpg" serie="normale" datains="20130521" anno="1986">Con maschera di Gargamella</smurf>
+  <smurf ref="20200" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20200-A_thumb.jpg" image="./IMG/Puffi/pics/20200-A.jpg" serie="normale" datains="20130327" anno="1984">Con regalo di natale</smurf>
+  <smurf ref="20201" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20201-A_thumb.jpg" image="./IMG/Puffi/pics/20201-A.jpg" serie="normale" datains="20130327" anno="1984">Con regalo e lanterna natalizia</smurf>
+  <smurf ref="20202" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20202-A_thumb.jpg" image="./IMG/Puffi/pics/20202-A.jpg" serie="normale" datains="20130327" anno="1985">Baby puffo rosa con sonaglio</smurf>
+  <smurf ref="20203" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20203-A_thumb.jpg" image="./IMG/Puffi/pics/20203-A.jpg" serie="normale" datains="20130327" anno="1985">Baby puffo azzurro con sonaglio</smurf>
+  <smurf ref="20205" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20205-B_thumb.jpg" image="./IMG/Puffi/pics/20205-B.jpg" serie="normale" datains="20130327" anno="1986">Baby puffo con orsacchiotto</smurf>
+  <smurf ref="20206" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20206-A_thumb.jpg" image="./IMG/Puffi/pics/20206-A.jpg" serie="normale" datains="20130327" anno="1986">Baby puffo con ghiacciolo</smurf>
+  <smurf ref="20209" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20209-A_thumb.jpg" image="./IMG/Puffi/pics/20209-A.jpg" serie="normale" datains="20130327" anno="1986">Dentista</smurf>
+  <smurf ref="20211" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20211-A_thumb.jpg" image="./IMG/Puffi/pics/20211-A.jpg" serie="normale" datains="20130327" anno="1986">Cestista</smurf>
+  <smurf ref="20212" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20212-A_thumb.jpg" image="./IMG/Puffi/pics/20212-A.jpg" serie="normale" datains="20130327" anno="1986">Angelo</smurf>
+  <smurf ref="20213" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20213-A_thumb.jpg" image="./IMG/Puffi/pics/20213-A.jpg" serie="normale" datains="20130327" anno="1986">Diavolo</smurf>
+  <smurf ref="20214" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20214-A_thumb.jpg" image="./IMG/Puffi/pics/20214-A.jpg" serie="normale" datains="20130327" anno="1986">Baby puffo **(blocco centrale verde)</smurf>
+  <smurf ref="20214" ordRef="02" tipo="bp" thumb="./IMG/Puffi/thumb/20214-B_thumb.jpg" image="./IMG/Puffi/pics/20214-B.jpg" serie="normale" datains="20130327" anno="1986">Baby puffo **(blocco centrale blu)</smurf>
+  <smurf ref="20215" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20215-A_thumb.jpg" image="./IMG/Puffi/pics/20215-A.jpg" serie="normale" datains="20130327" anno="1986">Baby puffo con macchinina</smurf>
+  <smurf ref="20216" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20216-A_thumb.jpg" image="./IMG/Puffi/pics/20216-A.jpg" serie="normale" datains="20130327" anno="1986">Con smoking</smurf>
+  <smurf ref="20218" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20218-A_thumb.jpg" image="./IMG/Puffi/pics/20218-A.jpg" serie="normale" datains="20130327" anno="1986">Baby puffo con farfallina</smurf>
+  <smurf ref="20222" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20222-A_thumb.jpg" image="./IMG/Puffi/pics/20222-A.jpg" serie="normale" datains="20130327" anno="1987">Cameriera</smurf>
+  <smurf ref="20223" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20223-A_thumb.jpg" image="./IMG/Puffi/pics/20223-A.jpg" serie="normale" datains="20130327" anno="1987">Pilota</smurf>
+  <smurf ref="20224" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20224-A_thumb.jpg" image="./IMG/Puffi/pics/20224-A.jpg" serie="normale" datains="20130327" anno="1987">Baby puffo con scodella e cucchiaio</smurf>
+  <smurf ref="20226" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20226-A_thumb.jpg" image="./IMG/Puffi/pics/20226-A.jpg" serie="normale" datains="20130327" anno="1988">Nonno Puffo</smurf>
+  <smurf ref="20227" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20227-A_thumb.jpg" image="./IMG/Puffi/pics/20227-A.jpg" serie="normale" datains="20130327" anno="1988">Ping-pong</smurf>
+  <smurf ref="20228" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20228-A_thumb.jpg" image="./IMG/Puffi/pics/20228-A.jpg" serie="normale" datains="20130327" anno="1990">Fitness</smurf>
+  <smurf ref="20229" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20229-A_thumb.jpg" image="./IMG/Puffi/pics/20229-A.jpg" serie="normale" datains="20130610" anno="1990">Capomastro</smurf>
+  <smurf ref="20230" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20230-A_thumb.jpg" image="./IMG/Puffi/pics/20230-A.jpg" serie="normale" datains="20130327" anno="1990">Selvaggio</smurf>
+  <smurf ref="20231" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20231-A_thumb.jpg" image="./IMG/Puffi/pics/20231-A.jpg" serie="normale" datains="20130327" anno="1990">Hawaiiana</smurf>
+  <smurf ref="20232" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/20232-A_thumb.jpg" image="./IMG/Puffi/pics/20232-A.jpg" serie="normale" datains="20130327" anno="1993">Gargamella **(2 provette)</smurf>
+  <smurf ref="20232" ordRef="02" tipo="ga" thumb="./IMG/Puffi/thumb/20232-B_thumb.jpg" image="./IMG/Puffi/pics/20232-B.jpg" serie="normale" datains="20130327" anno="1993">Gargamella **(1 provetta e dito alzato)</smurf>
+  <smurf ref="20401" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20401-A_thumb.jpg" image="./IMG/Puffi/pics/20401-A.jpg" serie="normale" datains="20130327" anno="1988">Sciccoso</smurf>
+  <smurf ref="20402" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20402-A_thumb.jpg" image="./IMG/Puffi/pics/20402-A.jpg" serie="normale" datains="20130327" anno="1988">Sciattone</smurf>
+  <smurf ref="20403" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20403-A_thumb.jpg" image="./IMG/Puffi/pics/20403-A.jpg" serie="normale" datains="20130327" anno="1988">Naturone</smurf>
+  <smurf ref="20404" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20404-A_thumb.jpg" image="./IMG/Puffi/pics/20404-A.jpg" serie="normale" datains="20130327" anno="1988">Bontina **(con lentiggini)</smurf>
+  <smurf ref="20404" ordRef="02" tipo="pa" thumb="./IMG/Puffi/thumb/20404-B_thumb.jpg" image="./IMG/Puffi/pics/20404-B.jpg" serie="normale" datains="20130327" anno="1988">Bontina **(senza lentiggini)</smurf>
+  <smurf ref="20406" ordRef="01" tipo="an" thumb="./IMG/Puffi/thumb/20406-A_thumb.jpg" image="./IMG/Puffi/pics/20406-A.jpg" serie="normale" datains="20130610" anno="1991">Coniglio Smoogle</smurf>
+  <smurf ref="20408" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20408-A_thumb.jpg" image="./IMG/Puffi/pics/20408-A.jpg" serie="normale" datains="20130327" anno="1991">Nonna puffa</smurf>
+  <smurf ref="20410" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20410-A_thumb.jpg" image="./IMG/Puffi/pics/20410-A.jpg" serie="normale" datains="20130327" anno="1993">Con topolino</smurf>
+  <smurf ref="20411" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/20411-A_thumb.jpg" image="./IMG/Puffi/pics/20411-A.jpg" serie="normale" datains="20130327" anno="1993">Birba **(orecchio integro)</smurf>
+  <smurf ref="20411" ordRef="02" tipo="ga" thumb="./IMG/Puffi/thumb/20411-B_thumb.jpg" image="./IMG/Puffi/pics/20411-B.jpg" serie="normale" datains="20130327" anno="1993">Birba **(orecchio tagliato)</smurf>
+  <smurf ref="20411" ordRef="03" tipo="ga" thumb="./IMG/Puffi/thumb/20411-C_thumb.jpg" image="./IMG/Puffi/pics/20411-C.jpg" serie="normale" datains="20130327" anno="1993">Birba **(orecchio tagliato e colore più chiaro)</smurf>
+  <smurf ref="20412" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20412-A_thumb.jpg" image="./IMG/Puffi/pics/20412-A.jpg" serie="normale" datains="20130327" anno="1993">Sposa</smurf>
+  <smurf ref="20413" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20413-A_thumb.jpg" image="./IMG/Puffi/pics/20413-A.jpg" serie="normale" datains="20130327" anno="1993">Sposo</smurf>
+  <smurf ref="20414" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20414-A_thumb.jpg" image="./IMG/Puffi/pics/20414-A.jpg" serie="normale" datains="20130610" anno="1993">Videoamatore</smurf>
+  <smurf ref="20415" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20415-A_thumb.jpg" image="./IMG/Puffi/pics/20415-A.jpg" serie="normale" datains="20130327" anno="1993">Pallamano</smurf>
+  <smurf ref="20416" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20416-A_thumb.jpg" image="./IMG/Puffi/pics/20416-A.jpg" serie="normale" datains="20130327" anno="1993">Calciatore **(maglia gialla)</smurf>
+  <smurf ref="20416" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20416-B_thumb.jpg" image="./IMG/Puffi/pics/20416-B.jpg" serie="normale" datains="20130327" anno="1993">Calciatore **(maglia rossa)</smurf>
+  <smurf ref="20417" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20417-A_thumb.jpg" image="./IMG/Puffi/pics/20417-A.jpg" serie="normale" datains="20130327" anno="1994">Culturista</smurf>
+  <smurf ref="20418" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/20418-A_thumb.jpg" image="./IMG/Puffi/pics/20418-A.jpg" serie="normale" datains="20130327" anno="1994">Gragamella minaccioso</smurf>
+  <smurf ref="20419" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20419-A_thumb.jpg" image="./IMG/Puffi/pics/20419-A.jpg" serie="normale" datains="20130327" anno="1994">Pugile</smurf>
+  <smurf ref="20420" ordRef="01" tipo="ap" thumb="./IMG/Puffi/thumb/20420-A_thumb.jpg" image="./IMG/Puffi/pics/20420-A.jpg" serie="normale" datains="20130327" anno="1994">Lenticchia</smurf>
+  <smurf ref="20421" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20421-A_thumb.jpg" image="./IMG/Puffi/pics/20421-A.jpg" serie="normale" datains="20130327" anno="1994">Con borsetta e fiore</smurf>
+  <smurf ref="20422" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20422-A_thumb.jpg" image="./IMG/Puffi/pics/20422-A.jpg" serie="normale" datains="20130327" anno="1994">Sciattone con puff-bacche</smurf>
+  <smurf ref="20423" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20423-A_thumb.jpg" image="./IMG/Puffi/pics/20423-A.jpg" serie="normale" datains="20130327" anno="1994">Seduto a gambe incrociate</smurf>
+  <smurf ref="20424" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20424-A_thumb.jpg" image="./IMG/Puffi/pics/20424-A.jpg" serie="normale" datains="20130327" anno="1995">Grande Puffo pensieroso</smurf>
+  <smurf ref="20425" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/20425-A_thumb.jpg" image="./IMG/Puffi/pics/20425-A.jpg" serie="normale" datains="20130327" anno="1995">Gragamella furioso</smurf>
+  <smurf ref="20426" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20426-A_thumb.jpg" image="./IMG/Puffi/pics/20426-A.jpg" serie="normale" datains="20130327" anno="1995">Scolaro</smurf>
+  <smurf ref="20427" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20427-A_thumb.jpg" image="./IMG/Puffi/pics/20427-A.jpg" serie="normale" datains="20130725" anno="1995">Cavernicolo</smurf>
+  <smurf ref="20428" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20428-A_thumb.jpg" image="./IMG/Puffi/pics/20428-A.jpg" serie="normale" datains="20130327" anno="1995">Cavernicola</smurf>
+  <smurf ref="20429" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20429-A_thumb.jpg" image="./IMG/Puffi/pics/20429-A.jpg" serie="normale" datains="20130521" anno="1995">Forzuto</smurf>
+  <smurf ref="20430" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20430-A_thumb.jpg" image="./IMG/Puffi/pics/20430-A.jpg" serie="normale" datains="20130327" anno="1996">Vichingo</smurf>
+  <smurf ref="20431" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20431-A_thumb.jpg" image="./IMG/Puffi/pics/20431-A.jpg" serie="normale" datains="20130327" anno="1996">Monaco</smurf>
+  <smurf ref="20432" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20432-A_thumb.jpg" image="./IMG/Puffi/pics/20432-A.jpg" serie="normale" datains="20130327" anno="1996">Cavallerizzo</smurf>
+  <smurf ref="20433" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20433-A_thumb.jpg" image="./IMG/Puffi/pics/20433-A.jpg" serie="normale" datains="20130327" anno="1996">Cavallerizza</smurf>
+  <smurf ref="20434" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20434-A_thumb.jpg" image="./IMG/Puffi/pics/20434-A.jpg" serie="normale" datains="20130327" anno="1996">Sciattone con cono</smurf>
+  <smurf ref="20435" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20435-A_thumb.jpg" image="./IMG/Puffi/pics/20435-A.jpg" serie="normale" datains="20130327" anno="1996">Bontina con cono</smurf>
+  <smurf ref="20436" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20436-A_thumb.jpg" image="./IMG/Puffi/pics/20436-A.jpg" serie="normale" datains="20130327" anno="1997">Sassofonista</smurf>
+  <smurf ref="20437" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20437-A_thumb.jpg" image="./IMG/Puffi/pics/20437-A.jpg" serie="normale" datains="20130327" anno="1997">Tecno</smurf>
+  <smurf ref="20438" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20438-A_thumb.jpg" image="./IMG/Puffi/pics/20438-A.jpg" serie="normale" datains="20130327" anno="1997">Con cellulare</smurf>
+  <smurf ref="20439" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/20439-A_thumb.jpg" image="./IMG/Puffi/pics/20439-A.jpg" serie="normale" datains="20130327" anno="1997">Birba spaventato</smurf>
+  <smurf ref="20440" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20440-A_thumb.jpg" image="./IMG/Puffi/pics/20440-A.jpg" serie="normale" datains="20130327" anno="1997">Tuffatore</smurf>
+  <smurf ref="20441" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20441-A_thumb.jpg" image="./IMG/Puffi/pics/20441-A.jpg" serie="normale" datains="20130327" anno="1997">Velocista</smurf>
+  <smurf ref="20442" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20442-A_thumb.jpg" image="./IMG/Puffi/pics/20442-A.jpg" serie="normale" datains="20130327" anno="1998">Pattinatore in linea</smurf>
+  <smurf ref="20443" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20443-A_thumb.jpg" image="./IMG/Puffi/pics/20443-A.jpg" serie="normale" datains="20130327" anno="">Pattinatrice in linea</smurf>
+  <smurf ref="20444" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20444-A_thumb.jpg" image="./IMG/Puffi/pics/20444-A.jpg" serie="normale" datains="20130327" anno="1998">Disco</smurf>
+  <smurf ref="20445" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20445-A_thumb.jpg" image="./IMG/Puffi/pics/20445-A.jpg" serie="normale" datains="20130327" anno="1998">Disco</smurf>
+  <smurf ref="20446" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20446-A_thumb.jpg" image="./IMG/Puffi/pics/20446-A.jpg" serie="normale" datains="20130327" anno="1998">Baby puffo con bambola</smurf>
+  <smurf ref="20447" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20447-A_thumb.jpg" image="./IMG/Puffi/pics/20447-A.jpg" serie="normale" datains="20130327" anno="1998">Baby puffo con camioncino</smurf>
+  <smurf ref="20448" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20448-A_thumb.jpg" image="./IMG/Puffi/pics/20448-A.jpg" serie="normale" datains="20130327" anno="1998">Baby puffo che si lava</smurf>
+  <smurf ref="20449" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20449-A_thumb.jpg" image="./IMG/Puffi/pics/20449-A.jpg" serie="normale" datains="20130327" anno="1999">Chitarrista</smurf>
+  <smurf ref="20450" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20450-A_thumb.jpg" image="./IMG/Puffi/pics/20450-A.jpg" serie="normale" datains="20130327" anno="1999">Bassista</smurf>
+  <smurf ref="20451" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20451-A_thumb.jpg" image="./IMG/Puffi/pics/20451-A.jpg" serie="normale" datains="20130327" anno="1999">Cantante</smurf>
+  <smurf ref="20452" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20452-A_thumb.jpg" image="./IMG/Puffi/pics/20452-A.jpg" serie="normale" datains="20130327" anno="1999">Snowboarder</smurf>
+  <smurf ref="20453" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20453-A_thumb.jpg" image="./IMG/Puffi/pics/20453-A.jpg" serie="normale" datains="20130327" anno="1999">Snowboarder</smurf>
+  <smurf ref="20454" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20454-A_thumb.jpg" image="./IMG/Puffi/pics/20454-A.jpg" serie="normale" datains="20130327" anno="1999">Calciatore</smurf>
+  <smurf ref="20455" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20455-A_thumb.jPG" image="./IMG/Puffi/pics/20455-A.JPG" serie="normale" datains="20130618" anno="1999">Turista</smurf>
+  <smurf ref="20460" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20460-A_thumb.jpg" image="./IMG/Puffi/pics/20460-A.jpg" serie="normale" datains="20130327" anno="1999">Golfista</smurf>
+  <smurf ref="20461" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20461-A_thumb.jpg" image="./IMG/Puffi/pics/20461-A.jpg" serie="normale" datains="20130327" anno="2000">Tirolese</smurf>
+  <smurf ref="20462" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20462-A_thumb.jpg" image="./IMG/Puffi/pics/20462-A.jpg" serie="normale" datains="20130327" anno="2000">Con spazzolone</smurf>
+  <smurf ref="20463" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20463-A_thumb.jpg" image="./IMG/Puffi/pics/20463-A.jpg" serie="normale" datains="20130327" anno="2000">Merenda</smurf>
+  <smurf ref="20464" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20464-A_thumb.jpg" image="./IMG/Puffi/pics/20464-A.jpg" serie="normale" datains="20130327" anno="2000">Secchione</smurf>
+  <smurf ref="20465" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20465-A_thumb.jpg" image="./IMG/Puffi/pics/20465-A.jpg" serie="normale" datains="20130327" anno="2000">Pompiere</smurf>
+  <smurf ref="20466" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20466-A_thumb.jpg" image="./IMG/Puffi/pics/20466-A.jpg" serie="normale" datains="20130327" anno="2000">Subacqueo</smurf>
+  <smurf ref="20467" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20467-A_thumb.jpg" image="./IMG/Puffi/pics/20467-A.jpg" serie="normale" datains="20130327" anno="2000">Spazzacamino</smurf>
+  <smurf ref="20469" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20469-A_thumb.jpg" image="./IMG/Puffi/pics/20469-A.jpg" serie="normale" datains="20130327" anno="2001">Con bouquet</smurf>
+  <smurf ref="20470" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20470-A_thumb.jpg" image="./IMG/Puffi/pics/20470-A.jpg" serie="normale" datains="20130327" anno="2001">Pilota d'aereo</smurf>
+  <smurf ref="20472" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20472-A_thumb.jpg" image="./IMG/Puffi/pics/20472-A.jpg" serie="normale" datains="20130327" anno="2001">Arbitro</smurf>
+  <smurf ref="20473" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20473-A_thumb.jpg" image="./IMG/Puffi/pics/20473-A.jpg" serie="normale" datains="20130521" anno="2001">Nuovo autostoppista</smurf>
+  <smurf ref="20474" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20474-A_thumb.jPG" image="./IMG/Puffi/pics/20474-A.JPG" serie="normale" datains="20130618" anno="2001">Avventuriero</smurf>
+  <smurf ref="20475" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20475-A_thumb.jpg" image="./IMG/Puffi/pics/20475-A.jpg" serie="normale" datains="20130327" anno="2001">Safari</smurf>
+  <smurf ref="20476" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20476-A_thumb.jpg" image="./IMG/Puffi/pics/20476-A.jpg" serie="normale" datains="20130327" anno="2001">Paracadutista</smurf>
+  <smurf ref="20478" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20478-A_thumb.jpg" image="./IMG/Puffi/pics/20478-A.jpg" serie="normale" datains="20130327" anno="2001">Cronista sportivo</smurf>
+  <smurf ref="20479" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20479-A_thumb.jpg" image="./IMG/Puffi/pics/20479-A.jpg" serie="banda" datains="20130327" anno="2002">Trombettiere</smurf>
+  <smurf ref="20483" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20483-A_thumb.jpg" image="./IMG/Puffi/pics/20483-A.jpg" serie="banda" datains="20130327" anno="2002">Con corno francese</smurf>
+  <smurf ref="20484" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20484-A_thumb.jPG" image="./IMG/Puffi/pics/20484-A.JPG" serie="banda" datains="20130618" anno="2002">Trombone</smurf>
+  <smurf ref="20486" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20486-A_thumb.jpg" image="./IMG/Puffi/pics/20486-A.jpg" serie="banda" datains="20130327" anno="2002">Clarinettista</smurf>
+  <smurf ref="20488" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20488-A_thumb.jpg" image="./IMG/Puffi/pics/20488-A.jpg" serie="banda" datains="20130327" anno="2002">Con tuba</smurf>
+  <smurf ref="20489" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20489-A_thumb.jpg" image="./IMG/Puffi/pics/20489-A.jpg" serie="pasquale" datains="20130327" anno="1984">Con uovo e pulcino</smurf>
+  <smurf ref="20490" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20490-A_thumb.jpg" image="./IMG/Puffi/pics/20490-A.jpg" serie="pasquale" datains="20130327" anno="1984">Con uovo e fiocco</smurf>
+  <smurf ref="20493" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20493-A_thumb.jpg" image="./IMG/Puffi/pics/20493-A.jpg" serie="banda" datains="20130327" anno="2002">Con tamburello</smurf>
+  <smurf ref="20494" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20494-A_thumb.jpg" image="./IMG/Puffi/pics/20494-A.jpg" serie="banda" datains="20130327" anno="2002">Con grancassa</smurf>
+  <smurf ref="20496" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20496-A_thumb.jpg" image="./IMG/Puffi/pics/20496-A.jpg" serie="pasquale" datains="20130327" anno="1982">Con costume da coniglio</smurf>
+  <smurf ref="20497" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20497-A_thumb.jpg" image="./IMG/Puffi/pics/20497-A.jpg" serie="pasquale" datains="20130327" anno="1982">Con costume da coniglio</smurf>
+  <smurf ref="20498" ordRef="01" tipo="ap" thumb="./IMG/Puffi/thumb/20498-A_thumb.jpg" image="./IMG/Puffi/pics/20498-A.jpg" serie="normale" datains="20130327" anno="1966">John</smurf>
+  <smurf ref="20499" ordRef="01" tipo="ap" thumb="./IMG/Puffi/thumb/20499-A_thumb.jpg" image="./IMG/Puffi/pics/20499-A.jpg" serie="normale" datains="20130327" anno="1966">Solfami</smurf>
+  <smurf ref="20503" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20501_thumb.jpg" image="./IMG/Puffi/pics/20501.jpg" serie="storico" datains="20130327" anno="1984">Cristoforo Colombo</smurf>
+  <smurf ref="20505" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20503-A_thumb.jpg" image="./IMG/Puffi/pics/20503-A.jpg" serie="storico" datains="20130327" anno="1984">George Washington</smurf>
+  <smurf ref="20501" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20505-A_thumb.jpg" image="./IMG/Puffi/pics/20505-A.jpg" serie="storico" datains="20130403" anno="1984">Paul Revere</smurf>
+  <smurf ref="20505" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/20505-B_thumb.jpg" image="./IMG/Puffi/pics/20505-B.jpg" serie="storico" datains="20140317" anno="1984">George Washington**(made in Honk kong)</smurf>
+  <smurf ref="20506" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20506-A_thumb.jpg" image="./IMG/Puffi/pics/20506-A.jpg" serie="storico" datains="20130327" anno="1984">Abramo Lincoln</smurf>
+  <smurf ref="20517" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20517-A_thumb.jPG" image="./IMG/Puffi/pics/20517-A.JPG" serie="newgen" datains="20130614" anno="2003">Hippy</smurf>
+  <smurf ref="20518" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20518-A_thumb.jpg" image="./IMG/Puffi/pics/20518-A.jpg" serie="newgen" datains="20130327" anno="2003">Cestista</smurf>
+  <smurf ref="20519" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20519-A_thumb.jpg" image="./IMG/Puffi/pics/20519-A.jpg" serie="newgen" datains="20130725" anno="2003">Hip Hop</smurf>
+  <smurf ref="20522" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20522-A_thumb.jpg" image="./IMG/Puffi/pics/20522-A.jpg" serie="newgen" datains="20130327" anno="2003">Stakanovista</smurf>
+  <smurf ref="20523" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20523-A_thumb.jpg" image="./IMG/Puffi/pics/20523-A.jpg" serie="newgen" datains="20130327" anno="2003">Vanitoso</smurf>
+  <smurf ref="20524" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20524-A_thumb.jpg" image="./IMG/Puffi/pics/20524-A.jpg" serie="newgen" datains="20130327" anno="2003">Trendy</smurf>
+  <smurf ref="20525" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20525-A_thumb.jPG" image="./IMG/Puffi/pics/20525-A.JPG" serie="calcio" datains="20130618" anno="2004">Portiere</smurf>
+  <smurf ref="20526" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20526-A_thumb.jPG" image="./IMG/Puffi/pics/20526-A.JPG" serie="calcio" datains="20130618" anno="2004">Panchinaro</smurf>
+  <smurf ref="20527" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20527-A_thumb.jPG" image="./IMG/Puffi/pics/20527-A.JPG" serie="calcio" datains="20130618" anno="2004">Regista di centrocampo</smurf>
+  <smurf ref="20528" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20528-A_thumb.jpg" image="./IMG/Puffi/pics/20528-A.jpg" serie="calcio" datains="20130327" anno="2004">Goleador</smurf>
+  <smurf ref="20529" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20529-A_thumb.jPG" image="./IMG/Puffi/pics/20529-A.JPG" serie="calcio" datains="20130618" anno="2004">Allenatore</smurf>
+  <smurf ref="20530" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20530-A_thumb.jpg" image="./IMG/Puffi/pics/20530-A.jpg" serie="calcio" datains="20130327" anno="2004">Tifoso</smurf>
+  <smurf ref="20531" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20531-A_thumb.jpg" image="./IMG/Puffi/pics/20531-A.jpg" serie="calcio" datains="20130327" anno="2004">Tifosa</smurf>
+  <smurf ref="20532" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20532-A_thumb.jPG" image="./IMG/Puffi/pics/20532-A.JPG" serie="calcio" datains="20130618" anno="2004">Presidente</smurf>
+  <smurf ref="20533" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20533-A_thumb.jpg" image="./IMG/Puffi/pics/20533-A.jpg" serie="classic" datains="20130327" anno="2005">Grande puffo classico</smurf>
+  <smurf ref="20534" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20534-A_thumb.jpg" image="./IMG/Puffi/pics/20534-A.jpg" serie="classic" datains="20130327" anno="2005">Puffetta classica</smurf>
+  <smurf ref="20535" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20535-A_thumb.jpg" image="./IMG/Puffi/pics/20535-A.jpg" serie="classic" datains="20130327" anno="2005">Brontolone classico</smurf>
+  <smurf ref="20536" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20536-A_thumb.jpg" image="./IMG/Puffi/pics/20536-A.jpg" serie="classic" datains="20130327" anno="2005">Quattrocchi classico</smurf>
+  <smurf ref="20537" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20537-A_thumb.jpg" image="./IMG/Puffi/pics/20537-A.jpg" serie="classic" datains="20130327" anno="2005">Vanitoso classico</smurf>
+  <smurf ref="20539" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20539-A_thumb.jpg" image="./IMG/Puffi/pics/20539-A.jpg" serie="classic" datains="20130327" anno="2005">Trombettiere classico</smurf>
+  <smurf ref="20540" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20540-A_thumb.jpg" image="./IMG/Puffi/pics/20540-A.jpg" serie="classic" datains="20130327" anno="2005">Baby puffo classico</smurf>
+  <smurf ref="20541" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20541-A_thumb.jPG" image="./IMG/Puffi/pics/20541-A.JPG" serie="halloween" datains="20130618" anno="2006">Dracula</smurf>
+  <smurf ref="20542" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20542-A_thumb.jpg" image="./IMG/Puffi/pics/20542-A.jpg" serie="halloween" datains="20160421" anno="2006">Famtasma</smurf>
+  <smurf ref="20543" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20543-A_thumb.jPG" image="./IMG/Puffi/pics/20543-A.JPG" serie="halloween" datains="20130618" anno="2006">Licantropo</smurf>
+  <smurf ref="20544" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20544-A_thumb.jpg" image="./IMG/Puffi/pics/20544-A.jpg" serie="halloween" datains="20130327" anno="2006">Mummia</smurf>
+  <smurf ref="20545" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20545-A_thumb.jpg" image="./IMG/Puffi/pics/20545-A.jpg" serie="halloween" datains="20160421" anno="2006">Morte</smurf>
+  <smurf ref="20546" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20546-A_thumb.jPG" image="./IMG/Puffi/pics/20546-A.JPG" serie="halloween" datains="20130618" anno="2006">Frankenstein</smurf>
+  <smurf ref="20547" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20547-A_thumb.jPG" image="./IMG/Puffi/pics/20547-A.JPG" serie="halloween" datains="20130614" anno="2006">Strega</smurf>
+  <smurf ref="20548" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20548-A_thumb.jPG" image="./IMG/Puffi/pics/20548-A.JPG" serie="halloween" datains="20130618" anno="2006">Testa di zucca</smurf>
+  <smurf ref="20549" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20549-A_thumb.jPG" image="./IMG/Puffi/pics/20549-A.JPG" serie="indiani" datains="20130618" anno="2007">Indiano su canoa</smurf>
+  <smurf ref="20550" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20550-A_thumb.jPG" image="./IMG/Puffi/pics/20550-A.JPG" serie="indiani" datains="20130618" anno="2007">Indiano con lancia</smurf>
+  <smurf ref="20551" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20551-A_thumb.jPG" image="./IMG/Puffi/pics/20551-A.JPG" serie="indiani" datains="20130618" anno="2007">Indiano con arco</smurf>
+  <smurf ref="20552" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20552-A_thumb.jPG" image="./IMG/Puffi/pics/20552-A.JPG" serie="indiani" datains="20130327" anno="2007">Danza della pioggia</smurf>
+  <smurf ref="20553" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20553-A_thumb.jPG" image="./IMG/Puffi/pics/20553-A.JPG" serie="indiani" datains="20130614" anno="2007">Con calumet</smurf>
+  <smurf ref="20554" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20554-A_thumb.jpg" image="./IMG/Puffi/pics/20554-A.jpg" serie="indiani" datains="20130327" anno="2007">Stregone</smurf>
+  <smurf ref="20555" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20555-A_thumb.jPG" image="./IMG/Puffi/pics/20555-A.JPG" serie="indiani" datains="20130618" anno="2007">Indiana con bimbo</smurf>
+  <smurf ref="20556" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20556-A_thumb.jPG" image="./IMG/Puffi/pics/20556-A.JPG" serie="indiani" datains="20130614" anno="2007">Capo indiano seduto</smurf>
+  <smurf ref="20701" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20701-A_thumb.jpg" image="./IMG/Puffi/pics/20701-A.jpg" serie="party" datains="20130521" anno="2008">Anniversario</smurf>
+  <smurf ref="20702" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/20702-A_thumb.jpg" image="./IMG/Puffi/pics/20702-A.jpg" serie="party" datains="20130521" anno="2008">Gargamella in festa</smurf>
+  <smurf ref="20703" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/20703-A_thumb.jpg" image="./IMG/Puffi/pics/20703-A.jpg" serie="party" datains="20130327" anno="2008">Birba in festa</smurf>
+  <smurf ref="20704" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20704-A_thumb.jpg" image="./IMG/Puffi/pics/20704-A.jpg" serie="party" datains="20130327" anno="2008">Torta sorpresa</smurf>
+  <smurf ref="20705" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20705-A_thumb.jPG" image="./IMG/Puffi/pics/20705-A.JPG" serie="party" datains="20130618" anno="2008">Festoso</smurf>
+  <smurf ref="20706" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20706-A_thumb.jpg" image="./IMG/Puffi/pics/20706-A.jpg" serie="party" datains="20130327" anno="2008">Grande puffo in festa</smurf>
+  <smurf ref="20708" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20708-A_thumb.jpg" image="./IMG/Puffi/pics/20708-A.jpg" serie="party" datains="20130521" anno="2008">Brindisi</smurf>
+  <smurf ref="20709" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20709-A_thumb.jpg" image="./IMG/Puffi/pics/20709-A.jpg" serie="cinema" datains="20130327" anno="2009">Stuntman</smurf>
+  <smurf ref="20710" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20710-A_thumb.jpg" image="./IMG/Puffi/pics/20710-A.jpg" serie="cinema" datains="20130327" anno="2009">Ciak</smurf>
+  <smurf ref="20711" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20711-A_thumb.jpg" image="./IMG/Puffi/pics/20711-A.jpg" serie="cinema" datains="20130725" anno="2009">Regista</smurf>
+  <smurf ref="20712" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20712-A_thumb.jpg" image="./IMG/Puffi/pics/20712-A.jpg" serie="cinema" datains="20130327" anno="2009">Tecnico del suono</smurf>
+  <smurf ref="20713" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20713-A_thumb.jpg" image="./IMG/Puffi/pics/20713-A.jpg" serie="cinema" datains="20130327" anno="2009">Marylin</smurf>
+  <smurf ref="20714" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20714-A_thumb.jpg" image="./IMG/Puffi/pics/20714-A.jpg" serie="cinema" datains="20130521" anno="2009">Cameraman</smurf>
+  <smurf ref="20715" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20715-A_thumb.jpg" image="./IMG/Puffi/pics/20715-A.jpg" serie="cinema" datains="20130521" anno="2009">Produttore</smurf>
+  <smurf ref="20716" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20716-A_thumb.jpg" image="./IMG/Puffi/pics/20716-A.jpg" serie="cinema" datains="20130327" anno="2009">Charlie Chaplin</smurf>
+  <smurf ref="20717" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20717-A_thumb.jpg" image="./IMG/Puffi/pics/20717-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Capricorno</smurf>
+  <smurf ref="20718" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20718-A_thumb.jpg" image="./IMG/Puffi/pics/20718-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Acquario</smurf>
+  <smurf ref="20719" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20719-A_thumb.jpg" image="./IMG/Puffi/pics/20719-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Pesci</smurf>
+  <smurf ref="20720" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20720-A_thumb.jpg" image="./IMG/Puffi/pics/20720-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Ariete</smurf>
+  <smurf ref="20721" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20721-A_thumb.jpg" image="./IMG/Puffi/pics/20721-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Toro</smurf>
+  <smurf ref="20722" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20722-A_thumb.jpg" image="./IMG/Puffi/pics/20722-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Gemelli</smurf>
+  <smurf ref="20723" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20723-A_thumb.jpg" image="./IMG/Puffi/pics/20723-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Cancro</smurf>
+  <smurf ref="20724" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20724_thumb.jpg" image="./IMG/Puffi/pics/20724.jpg" serie="zodiaco" datains="20130403" anno="2010">Leone</smurf>
+  <smurf ref="20725" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20725_thumb.jpg" image="./IMG/Puffi/pics/20725.jpg" serie="zodiaco" datains="20130403" anno="2010">Vergine</smurf>
+  <smurf ref="20726" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20726-A_thumb.jpg" image="./IMG/Puffi/pics/20726-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Bilancia</smurf>
+  <smurf ref="20727" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20727-A_thumb.jpg" image="./IMG/Puffi/pics/20727-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Scorpione</smurf>
+  <smurf ref="20728" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20728-A_thumb.jpg" image="./IMG/Puffi/pics/20728-A.jpg" serie="zodiaco" datains="20130327" anno="2010">Sagittario</smurf>
+  <smurf ref="20729" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20729-A_thumb.jpg" image="./IMG/Puffi/pics/20729-A.jpg" serie="film" datains="20130327" anno="2011">Grande puffo film</smurf>
+  <smurf ref="20730" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20730_thumb.jpg" image="./IMG/Puffi/pics/20730.jpg" serie="film" datains="20160606" anno="2011">Tontolone</smurf>
+  <smurf ref="20731" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20731-A_thumb.jpg" image="./IMG/Puffi/pics/20731-A.jpg" serie="film" datains="20130327" anno="2011">Puffetta film</smurf>
+  <smurf ref="20732" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20732_thumb.jpg" image="./IMG/Puffi/pics/20732.jpg" serie="film" datains="20160606" anno="2011">Highlander</smurf>
+  <smurf ref="20733" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20733-A_thumb.jpg" image="./IMG/Puffi/pics/20733-A.jpg" serie="film" datains="20130327" anno="2011">Brontolone film</smurf>
+  <smurf ref="20734" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20734-A_thumb.jpg" image="./IMG/Puffi/pics/20734-A.jpg" serie="film" datains="20130327" anno="2011">Quattrocchi film</smurf>
+  <smurf ref="20736" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20736-A_thumb.jpg" image="./IMG/Puffi/pics/20736-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Nuotatore</smurf>
+  <smurf ref="20737" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20737-A_thumb.jpg" image="./IMG/Puffi/pics/20737-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Sollevatore pesi</smurf>
+  <smurf ref="20738" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20738-A_thumb.jpg" image="./IMG/Puffi/pics/20738-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Pallavolista</smurf>
+  <smurf ref="20739" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20739-A_thumb.jpg" image="./IMG/Puffi/pics/20739-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Staffettista</smurf>
+  <smurf ref="20740" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20740-A_thumb.jpg" image="./IMG/Puffi/pics/20740-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Ginnasta</smurf>
+  <smurf ref="20741" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20741-A_thumb.jpg" image="./IMG/Puffi/pics/20741-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Sprinter</smurf>
+  <smurf ref="20742" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20742-A_thumb.jpg" image="./IMG/Puffi/pics/20742-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Lanciatore peso</smurf>
+  <smurf ref="20743" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20743-A_thumb.jpg" image="./IMG/Puffi/pics/20743-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Cavallerizzo</smurf>
+  <smurf ref="20744" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20744-A_thumb.jpg" image="./IMG/Puffi/pics/20744-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Lanciatore giavellotto</smurf>
+  <smurf ref="20745" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20745-A_thumb.jpg" image="./IMG/Puffi/pics/20745-A.jpg" serie="olimpiadi2012" datains="20130327" anno="2012">Medaglia d'oro</smurf>
+  <smurf ref="20746" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20746-A_thumb.jpg" image="./IMG/Puffi/pics/20746-A.jpg" serie="serie2013" datains="20130327" anno="2013">Oggi sposi</smurf>
+  <smurf ref="20747" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20747-A_thumb.jpg" image="./IMG/Puffi/pics/20747-A.jpg" serie="serie2013" datains="20130327" anno="2013">San Valentino</smurf>
+  <smurf ref="20748" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20748-A_thumb.jpg" image="./IMG/Puffi/pics/20748-A.jpg" serie="serie2013" datains="20130725" anno="2013">Ringraziamento coi fiori</smurf>
+  <smurf ref="20749" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20749-A_thumb.jpg" image="./IMG/Puffi/pics/20749-A.jpg" serie="serie2013" datains="20130327" anno="2013">Sorry</smurf>
+  <smurf ref="20750" ordRef="01" tipo="bp" thumb="./IMG/Puffi/thumb/20750-A_thumb.jpg" image="./IMG/Puffi/pics/20750-A.jpg" serie="serie2013" datains="20130521" anno="2013">Baby Puffo</smurf>
+  <smurf ref="20751" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20751-A_thumb.jpg" image="./IMG/Puffi/pics/20751-A.jpg" serie="serie2013" datains="20130327" anno="2013">Buon compleanno</smurf>
+  <smurf ref="20752" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20752-A_thumb.jpg" image="./IMG/Puffi/pics/20752-A.jpg" serie="serie2013" datains="20130327" anno="2013">Guarisci presto</smurf>
+  <smurf ref="20753" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20753-A_thumb.jpg" image="./IMG/Puffi/pics/20753-A.jpg" serie="serie2013" datains="20130327" anno="2013">Party</smurf>
+  <smurf ref="20754" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20754_thumb.jpg" image="./IMG/Puffi/pics/20754.jpg" serie="film2" datains="20160606" anno="2013">Grande Puffo 2013</smurf>
+  <smurf ref="20755" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20755_thumb.jpg" image="./IMG/Puffi/pics/20755.jpg" serie="film2" datains="20160606" anno="2013">Puffetta film 2103</smurf>
+  <smurf ref="20756" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20756_thumb.jpg" image="./IMG/Puffi/pics/20756.jpg" serie="film2" datains="20160606" anno="2013">Vanitoso 2013</smurf>
+  <smurf ref="20757" ordRef="01" tipo="ap" thumb="./IMG/Puffi/thumb/20757_thumb.jpg" image="./IMG/Puffi/pics/20757.jpg" serie="film2" datains="20160606" anno="2013">Vexy</smurf>
+  <smurf ref="20758" ordRef="01" tipo="ap" thumb="./IMG/Puffi/thumb/20758_thumb.jpg" image="./IMG/Puffi/pics/20758.jpg" serie="film2" datains="20160606" anno="2013">Hackus</smurf>
+  <smurf ref="20759" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/20759_thumb.jpg" image="./IMG/Puffi/pics/20759.jpg" serie="film2" datains="20160606" anno="2013">Gargamella e Birba</smurf>
+  <smurf ref="20760" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20760-A_thumb.jpg" image="./IMG/Puffi/pics/20760-A.jpg" serie="pirati" datains="20160421" anno="2014">Capitano</smurf>
+  <smurf ref="20761" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20761-A_thumb.jpg" image="./IMG/Puffi/pics/20761-A.jpg" serie="pirati" datains="20160421" anno="2014">Piratessa</smurf>
+  <smurf ref="20762" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20762-A_thumb.jpg" image="./IMG/Puffi/pics/20762-A.jpg" serie="pirati" datains="20160421" anno="2014">Pirata</smurf>
+  <smurf ref="20763" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20763-A_thumb.jpg" image="./IMG/Puffi/pics/20763-A.jpg" serie="pirati" datains="20160421" anno="2014">Mozzo</smurf>
+  <smurf ref="20764" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20764-A_thumb.jpg" image="./IMG/Puffi/pics/20764-A.jpg" serie="pirati" datains="20160421" anno="2014">Cuoco di**bordo</smurf>
+  <smurf ref="20765" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20765-A_thumb.jpg" image="./IMG/Puffi/pics/20765-A.jpg" serie="pirati" datains="20160421" anno="2014">Vedetta</smurf>
+  <smurf ref="20766" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20766-A_thumb.jpg" image="./IMG/Puffi/pics/20766-A.jpg" serie="pirati" datains="20160421" anno="2014">Tesoriere</smurf>
+  <smurf ref="20767" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20767-A_thumb.jpg" image="./IMG/Puffi/pics/20767-A.jpg" serie="pirati" datains="20160421" anno="2014">Filibustiere</smurf>
+  <smurf ref="20768" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20768-A_thumb.jpg" image="./IMG/Puffi/pics/20768-A.jpg" serie="nuovimestieri" datains="20160421" anno="2015">Manutentore</smurf>
+  <smurf ref="20769" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20769_thumb.jpg" image="./IMG/Puffi/pics/20769.jpg" serie="nuovimestieri" datains="20160610" anno="2015">Grande Puffo Boss</smurf>
+  <smurf ref="20770" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20770_thumb.jpg" image="./IMG/Puffi/pics/20770.jpg" serie="nuovimestieri" datains="20160610" anno="2015">Manager</smurf>
+  <smurf ref="20771" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20771-A_thumb.jpg" image="./IMG/Puffi/pics/20771-A.jpg" serie="nuovimestieri" datains="20160421" anno="2015">Logistico</smurf>
+  <smurf ref="20772" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20772-A_thumb.jpg" image="./IMG/Puffi/pics/20772-A.jpg" serie="nuovimestieri" datains="20160421" anno="2015">Contabile</smurf>
+  <smurf ref="20773" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20773-A_thumb.jpg" image="./IMG/Puffi/pics/20773-A.jpg" serie="nuovimestieri" datains="20160421" anno="2015">Marketing</smurf>
+  <smurf ref="20774" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20774-A_thumb.jpg" image="./IMG/Puffi/pics/20774-A.jpg" serie="nuovimestieri" datains="20160421" anno="2015">Venditore</smurf>
+  <smurf ref="20775" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20775-A_thumb.jpg" image="./IMG/Puffi/pics/20775-A.jpg" serie="nuovimestieri" datains="20160421" anno="2015">Ricercatore</smurf>
+  <smurf ref="20776" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/20776_thumb.jpg" image="./IMG/Puffi/pics/20776.jpg" serie="giungla" datains="20160610" anno="2016">Esploratrice</smurf>
+  <smurf ref="20777" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/20777_thumb.jpg" image="./IMG/Puffi/pics/20777.jpg" serie="giungla" datains="20160610" anno="2016">Grande puffo</smurf>
+  <smurf ref="20778" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20778_thumb.jpg" image="./IMG/Puffi/pics/20778.jpg" serie="giungla" datains="20160610" anno="2016">Quattrocchi</smurf>
+  <smurf ref="20779" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20779_thumb.jpg" image="./IMG/Puffi/pics/20779.jpg" serie="giungla" datains="20160610" anno="2016">Stanco</smurf>
+  <smurf ref="20780" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20780_thumb.jpg" image="./IMG/Puffi/pics/20780.jpg" serie="giungla" datains="20160610" anno="2016">Esploratore</smurf>
+  <smurf ref="20781" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20781_thumb.jpg" image="./IMG/Puffi/pics/20781.jpg" serie="giungla" datains="20160610" anno="2016">Osservatore**della natura</smurf>
+  <smurf ref="20782" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20782_thumb.jpg" image="./IMG/Puffi/pics/20782.jpg" serie="giungla" datains="20160610" anno="2016">Avventuriero</smurf>
+  <smurf ref="20783" ordRef="01" tipo="ap" thumb="./IMG/Puffi/thumb/20783_thumb.jpg" image="./IMG/Puffi/pics/20783.jpg" serie="giungla" datains="20160610" anno="2016">Indigeno</smurf>
+  <smurf ref="20790" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20790_thumb.jpg" image="./IMG/Puffi/pics/20790.jpg" serie="euro2016" datains="20160613" anno="2016">Germania</smurf>
+  <smurf ref="20791" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20791_thumb.jpg" image="./IMG/Puffi/pics/20791.jpg" serie="euro2016" datains="20160613" anno="2016">Francia</smurf>
+  <smurf ref="20792" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20792_thumb.jpg" image="./IMG/Puffi/pics/20792.jpg" serie="euro2016" datains="20160613" anno="2016">Spagna</smurf>
+  <smurf ref="20793" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/20793_thumb.jpg" image="./IMG/Puffi/pics/20793.jpg" serie="euro2016" datains="20160613" anno="2016">Italia</smurf>
+  <smurf ref="40001" ordRef="01" tipo="aa" thumb="./IMG/Puffi/thumb/40001-A_thumb.jPG" image="./IMG/Puffi/pics/40001-A.JPG" serie="casa" datains="20130408" anno="1976">Casa Grande modello vecchio</smurf>
+  <smurf ref="40011" ordRef="01" tipo="aa" thumb="./IMG/Puffi/thumb/40011-A_thumb.jpg" image="./IMG/Puffi/pics/40011-A.jpg" serie="casa" datains="20130327" anno="1978">Casetta</smurf>
+  <smurf ref="40014" ordRef="01" tipo="aa" thumb="./IMG/Puffi/thumb/40014-A_thumb.jpg" image="./IMG/Puffi/pics/40014-A.jpg" serie="casa" datains="20130327" anno="1978">Casetta della puffetta</smurf>
+  <smurf ref="40020" ordRef="01" tipo="aa" thumb="./IMG/Puffi/thumb/40020-A_thumb.jpg" image="./IMG/Puffi/pics/40020-A.jpg" serie="edificio" datains="20130408" anno="1980">Mulino a Vento</smurf>
+  <smurf ref="40100" ordRef="01" tipo="an" thumb="./IMG/Puffi/thumb/40100-A_thumb.jpg" image="./IMG/Puffi/pics/40100-A.jpg" serie="playset" datains="20130327" anno="1980">Lumaca con carro</smurf>
+  <smurf ref="40201" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40201-A_thumb.jpg" image="./IMG/Puffi/pics/40201-A.jpg" serie="super" datains="20130327" anno="1979">Con slittino da neve</smurf>
+  <smurf ref="40202" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40202-A_thumb.jpg" image="./IMG/Puffi/pics/40202-A.jpg" serie="super" datains="20130327" anno="1979">Spazzacamino</smurf>
+  <smurf ref="40203" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40203-A_thumb.jpg" image="./IMG/Puffi/pics/40203-A.jpg" serie="super" datains="20130327" anno="1979">Con triciclo</smurf>
+  <smurf ref="40204" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40204-A_thumb.jpg" image="./IMG/Puffi/pics/40204-A.jpg" serie="super" datains="20130327" anno="1979">Con skateboard</smurf>
+  <smurf ref="40205" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40205-A_thumb.jpg" image="./IMG/Puffi/pics/40205-A.jpg" serie="super" datains="20130327" anno="1979">Sciatore</smurf>
+  <smurf ref="40206" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40206-A_thumb.jpg" image="./IMG/Puffi/pics/40206-A.jpg" serie="super" datains="20130327" anno="1979">Giardiniere</smurf>
+  <smurf ref="40207" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40207-A_thumb.jpg" image="./IMG/Puffi/pics/40207-A.jpg" serie="super" datains="20130604" anno="1980">Pescatore</smurf>
+  <smurf ref="40209" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40209-A_thumb.jpg" image="./IMG/Puffi/pics/40209-A.jpg" serie="super" datains="20130327" anno="1980">Cacciatore di farfalle</smurf>
+  <smurf ref="40210" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40210-A_thumb.jpg" image="./IMG/Puffi/pics/40210-A.jpg" serie="super" datains="20130327" anno="1980">In Macchina</smurf>
+  <smurf ref="40211" ordRef="01" tipo="ga" thumb="./IMG/Puffi/thumb/40211-A_thumb.jpg" image="./IMG/Puffi/pics/40211-A.jpg" serie="super" datains="20130327" anno="1979">Gargamella e Birba</smurf>
+  <smurf ref="40212" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40212-A_thumb.jpg" image="./IMG/Puffi/pics/40212-A.jpg" serie="super" datains="20130327" anno="1981">In gabbia</smurf>
+  <smurf ref="40213" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40213-A_thumb.jpg" image="./IMG/Puffi/pics/40213-A.jpg" serie="super" datains="20130521" anno="1981">Lavori Forzati</smurf>
+  <smurf ref="40214" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40214-A_thumb.jpg" image="./IMG/Puffi/pics/40214-A.jpg" serie="super" datains="20130327" anno="1981">A cavallo</smurf>
+  <smurf ref="40215" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40215-A_thumb.jpg" image="./IMG/Puffi/pics/40215-A.jpg" serie="super" datains="20130327" anno="1981">Windsurfer</smurf>
+  <smurf ref="40216" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40216-A_thumb.jpg" image="./IMG/Puffi/pics/40216-A.jpg" serie="super" datains="20130610" anno="1982">Pompiere con divisa gialla</smurf>
+  <smurf ref="40216" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/40216-B_thumb.jpg" image="./IMG/Puffi/pics/40216-B.jpg" serie="super" datains="20130327" anno="1982">Pompiere con divisa nera</smurf>
+  <smurf ref="40217" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40217-A_thumb.jpg" image="./IMG/Puffi/pics/40217-A.jpg" serie="super" datains="20130327" anno="1982">Fotografo</smurf>
+  <smurf ref="40218" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40218-A_thumb.jpg" image="./IMG/Puffi/pics/40218-A.jpg" serie="super" datains="20130327" anno="1982">Con kart</smurf>
+  <smurf ref="40219" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40219-A_thumb.jpg" image="./IMG/Puffi/pics/40219-A.jpg" serie="super" datains="20130327" anno="1982">In barca</smurf>
+  <smurf ref="40220" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40220-A_thumb.jpg" image="./IMG/Puffi/pics/40220-A.jpg" serie="super" datains="20130327" anno="1982">Scolaro</smurf>
+  <smurf ref="40221" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40221-A_thumb.jpg" image="./IMG/Puffi/pics/40221-A.jpg" serie="super" datains="20130327" anno="1982">Sul cavallo a dondolo</smurf>
+  <smurf ref="40222" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40222-A_thumb.jpg" image="./IMG/Puffi/pics/40222-A.jpg" serie="super" datains="20130327" anno="1982">Con aeroplano</smurf>
+  <smurf ref="40223" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40223-A_thumb.jpg" image="./IMG/Puffi/pics/40223-A.jpg" serie="super" datains="20140317" anno="1981">Pallavolista</smurf>
+  <smurf ref="40224" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/40224-A_thumb.jpg" image="./IMG/Puffi/pics/40224-A.jpg" serie="super" datains="20130327" anno="1982">Grande Puffo maestro</smurf>
+  <smurf ref="40225" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40225-A_thumb.jpg" image="./IMG/Puffi/pics/40225-A.jpg" serie="super" datains="20130327" anno="1982">Con tagliaerbe</smurf>
+  <smurf ref="40226" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40226-A_thumb.jpg" image="./IMG/Puffi/pics/40226-A.jpg" serie="super" datains="20130327" anno="1985">Sull'amaca</smurf>
+  <smurf ref="40228" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/40228-A_thumb.jpg" image="./IMG/Puffi/pics/40228-A.jpg" serie="super" datains="20130327" anno="1982">Su sedia a dondolo</smurf>
+  <smurf ref="40229" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40229-A_thumb.jpg" image="./IMG/Puffi/pics/40229-A.jpg" serie="super" datains="20130610" anno="1984">Al pianoforte</smurf>
+  <smurf ref="40229" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/40229-B_thumb.jpg" image="./IMG/Puffi/pics/40229-B.jpg" serie="super" datains="20130610" anno="1984">Pianista (pianoforte scuro)</smurf>
+  <smurf ref="40230" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40230-A_thumb.jpg" image="./IMG/Puffi/pics/40230-A.jpg" serie="super" datains="20130610" anno="1984">Monopattino</smurf>
+  <smurf ref="40231" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/40231-B_thumb.jpg" image="./IMG/Puffi/pics/40231-B.jpg" serie="super" datains="20130610" anno="1983">Motocross **(pilota giallo)</smurf>
+  <smurf ref="40232" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40232-A_thumb.jpg" image="./IMG/Puffi/pics/40232-A.jpg" serie="super" datains="20130327" anno="1984">Con macchina tronco</smurf>
+  <smurf ref="40233" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40233-A_thumb.jpg" image="./IMG/Puffi/pics/40233-A.jpg" serie="super" datains="20130327" anno="1984">Con elicottero</smurf>
+  <smurf ref="40234" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/40234-A_thumb.jpg" image="./IMG/Puffi/pics/40234-A.jpg" serie="super" datains="20130327" anno="1986">Cameretta di Puffetta</smurf>
+  <smurf ref="40235" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40235-A_thumb.jpg" image="./IMG/Puffi/pics/40235-A.jpg" serie="super" datains="20130327" anno="1983">In vasca</smurf>
+  <smurf ref="40237" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40237-A_thumb.jpg" image="./IMG/Puffi/pics/40237-A.jpg" serie="super" datains="20130610" anno="1984">Trapezista</smurf>
+  <smurf ref="40238" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/40238-A_thumb.jpg" image="./IMG/Puffi/pics/40238-A.jpg" serie="super" datains="20130327" anno="1985">Cucina di Puffetta</smurf>
+  <smurf ref="40240" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40240-A_thumb.jpg" image="./IMG/Puffi/pics/40240-A.jpg" serie="super" datains="20130327" anno="1983">In letto</smurf>
+  <smurf ref="40241" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/40241-A_thumb.jpg" image="./IMG/Puffi/pics/40241-A.jpg" serie="super" datains="20130521" anno="1983">Con Macchina Rosa</smurf>
+  <smurf ref="40242" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40242-A_thumb.jpg" image="./IMG/Puffi/pics/40242-A.jpg" serie="super" datains="20130610" anno="1984">Guardaspiaggia</smurf>
+  <smurf ref="40243" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40243-A_thumb.jpg" image="./IMG/Puffi/pics/40243-A.jpg" serie="super" datains="20130610" anno="1986">Tuffatore</smurf>
+  <smurf ref="40248" ordRef="01" tipo="an" thumb="./IMG/Puffi/thumb/40248-A_thumb.jpg" image="./IMG/Puffi/pics/40248-A.jpg" serie="super" datains="20130327" anno="1987">Cicogna e baby puffo</smurf>
+  <smurf ref="40249" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40249-A_thumb.jpg" image="./IMG/Puffi/pics/40249-A.jpg" serie="super" datains="20130327" anno="1995">Con computer</smurf>
+  <smurf ref="40250" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40250-A_thumb.jpg" image="./IMG/Puffi/pics/40250-A.jpg" serie="super" datains="20130327" anno="1998">Tastierista</smurf>
+  <smurf ref="40252" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40252-A_thumb.jpg" image="./IMG/Puffi/pics/40252-A.jpg" serie="super" datains="20130327" anno="1999">Con BMX</smurf>
+  <smurf ref="40255" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40255-A_thumb.jpg" image="./IMG/Puffi/pics/40255-A.jpg" serie="super" datains="20130327" anno="1999">Con auto da corsa rossa</smurf>
+  <smurf ref="40256" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40256-A_thumb.jpg" image="./IMG/Puffi/pics/40256-A.jpg" serie="super" datains="20130327" anno="1999">Con auto da corsa argento</smurf>
+  <smurf ref="40257" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40257-A_thumb.jpg" image="./IMG/Puffi/pics/40257-A.jpg" serie="super" datains="20130327" anno="2000">Scolaro che dorme</smurf>
+  <smurf ref="40258" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40258-A_thumb.jpg" image="./IMG/Puffi/pics/40258-A.jpg" serie="super" datains="20130327" anno="2000">Scolaro che parla</smurf>
+  <smurf ref="40260" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40260-A_thumb.jpg" image="./IMG/Puffi/pics/40260-A.jpg" serie="super" datains="20130327" anno="2000">Nonno puffo maestro</smurf>
+  <smurf ref="40261" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40261-A_thumb.jpg" image="./IMG/Puffi/pics/40261-A.jpg" serie="super" datains="20130327" anno="2001">In vacanza sulla spiaggia</smurf>
+  <smurf ref="40262" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/40262-A_thumb.jpg" image="./IMG/Puffi/pics/40262-A.jpg" serie="super" datains="20130327" anno="2001">In vacanza sulla spiaggia</smurf>
+  <smurf ref="40263" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40263-A_thumb.jpg" image="./IMG/Puffi/pics/40263-A.jpg" serie="super" datains="20130327" anno="2001">Con pc portatile</smurf>
+  <smurf ref="40264" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40264-A_thumb.jpg" image="./IMG/Puffi/pics/40264-A.jpg" serie="super" datains="20130327" anno="2001">Con macchina foglia</smurf>
+  <smurf ref="40265" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/40265-A_thumb.jpg" image="./IMG/Puffi/pics/40265-A.jpg" serie="super" datains="20130521" anno="2001">Su macchinina fungo</smurf>
+  <smurf ref="40501" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40501-A_thumb.jpg" image="./IMG/Puffi/pics/40501-A.jpg" serie="super" datains="20130327" anno="1980">Ciclista</smurf>
+  <smurf ref="40502" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40502-A_thumb.jpg" image="./IMG/Puffi/pics/40502-A.jpg" serie="super" datains="20130327" anno="1980">In canoa</smurf>
+  <smurf ref="40503" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40503-A_thumb.jpg" image="./IMG/Puffi/pics/40503-A.jpg" serie="super" datains="20130327" anno="1980">Lanciatore del disco</smurf>
+  <smurf ref="40504" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40504-A_thumb.jpg" image="./IMG/Puffi/pics/40504-A.jpg" serie="super" datains="20130327" anno="1980">Schermidore</smurf>
+  <smurf ref="40505" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40505-A_thumb.jpg" image="./IMG/Puffi/pics/40505-A.jpg" serie="super" datains="20130610" anno="1980">Hockey su ghiaccio</smurf>
+  <smurf ref="40507" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40507-A_thumb.jpg" image="./IMG/Puffi/pics/40507-A.jpg" serie="super" datains="20130327" anno="1981">Sollevatore di pesi</smurf>
+  <smurf ref="40508" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40508-A_thumb.jpg" image="./IMG/Puffi/pics/40508-A.jpg" serie="super" datains="20130327" anno="1981">Pugile</smurf>
+  <smurf ref="40509" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40509-A_thumb.jpg" image="./IMG/Puffi/pics/40509-A.jpg" serie="super" datains="20130327" anno="1981">Ginnasta</smurf>
+  <smurf ref="40510" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40510-A_thumb.jpg" image="./IMG/Puffi/pics/40510-A.jpg" serie="super" datains="20130610" anno="1981">Agli anelli</smurf>
+  <smurf ref="40511" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40511-A_thumb.jpg" image="./IMG/Puffi/pics/40511-A.jpg" serie="super" datains="20130327" anno="1981">Saltatore di ostacoli</smurf>
+  <smurf ref="40511" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/40511-B_thumb.jpg" image="./IMG/Puffi/pics/40511-B.jpg" serie="super" datains="20130610" anno="1981">Saltatore di ostacoli **(base corta)</smurf>
+  <smurf ref="40512" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40512-A_thumb.jpg" image="./IMG/Puffi/pics/40512-A.jpg" serie="super" datains="20130327" anno="1981">Cestista</smurf>
+  <smurf ref="40512" ordRef="02" tipo="pf" thumb="./IMG/Puffi/thumb/40512-B_thumb.jpg" image="./IMG/Puffi/pics/40512-B.jpg" serie="super" datains="20130327" anno="1981">Cestista **(supporto corto, retina grossa)</smurf>
+  <smurf ref="40600" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40600-A_thumb.jpg" image="./IMG/Puffi/pics/40600-A.jpg" serie="super" datains="20130327" anno="1979">Pompa di benzina</smurf>
+  <smurf ref="40623" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/40623-A_thumb.jpg" image="./IMG/Puffi/pics/40623-A.jpg" serie="playset" datains="20130327" anno="1996">Batterista</smurf>
+  <smurf ref="51901" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/51901-A_thumb.jpg" image="./IMG/Puffi/pics/51901-A.jpg" serie="natale" datains="20130327" anno="1982">Con albero di natale</smurf>
+  <smurf ref="51903" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/51903-A_thumb.jpg" image="./IMG/Puffi/pics/51903-A.jpg" serie="natale" datains="20130327" anno="1982">Con sacco doni</smurf>
+  <smurf ref="51904" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/51904-A_thumb.jpg" image="./IMG/Puffi/pics/51904-A.jpg" serie="natale" datains="20130327" anno="1982">Con sacco doni</smurf>
+  <smurf ref="51905" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/51905-A_thumb.jpg" image="./IMG/Puffi/pics/51905-A.jpg" serie="natale" datains="20130327" anno="1982">Canta canzoni di natale</smurf>
+  <smurf ref="51908" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/51908-A_thumb.jpg" image="./IMG/Puffi/pics/51908-A.jpg" serie="natale" datains="20130327" anno="1982">Con grancassa</smurf>
+  <smurf ref="51909" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/51909-A_thumb.jpg" image="./IMG/Puffi/pics/51909-A.jpg" serie="natale" datains="20130327" anno="1982">Canta canzoni di natale</smurf>
+  <smurf ref="60000" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/60000-A_thumb.jpg" image="./IMG/Puffi/pics/60000-A.jpg" serie="portachiave" datains="20130327" anno="1985">Interista</smurf>
+  <smurf ref="65010" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/65010-A_thumb.jpg" image="./IMG/Puffi/pics/65010-A.jpg" serie="custom" datains="20130327" anno="2013">Uomo Ragno **(Custom)</smurf>
+  <smurf ref="65020" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/65020-A_thumb.jpg" image="./IMG/Puffi/pics/65020-A.jpg" serie="custom" datains="20130327" anno="2013">Guerriero Medioevale**(Custom)</smurf>
+  <smurf ref="65021" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/65021-A_thumb.jpg" image="./IMG/Puffi/pics/65021-A.jpg" serie="custom" datains="20130327" anno="2013">Guerriero Medioevale**(Custom)</smurf>
+  <smurf ref="65022" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/65022-A_thumb.jpg" image="./IMG/Puffi/pics/65022-A.jpg" serie="custom" datains="20130327" anno="2013">Guerriero Medioevale**(Custom)</smurf>
+  <smurf ref="65023" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/65023-A_thumb.jpg" image="./IMG/Puffi/pics/65023-A.jpg" serie="custom" datains="20130327" anno="2013">Guerriero Medioevale**(Custom)</smurf>
+  <smurf ref="65024" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/65024-A_thumb.jpg" image="./IMG/Puffi/pics/65024-A.jpg" serie="custom" datains="20130327" anno="2013">Guerriero Medioevale**(Custom)</smurf>
+  <smurf ref="65025" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/65025-A_thumb.jpg" image="./IMG/Puffi/pics/65025-A.jpg" serie="custom" datains="20130327" anno="2013">Guerriera Medioevale**(Custom)</smurf>
+  <smurf ref="95000" ordRef="01" tipo="an" thumb="./IMG/Puffi/thumb/95000-A_thumb.jpg" image="./IMG/Puffi/pics/95000-A.jpg" serie="custom" datains="20130327" anno="2012">Milka 1</smurf>
+  <smurf ref="95001" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/95001-A_thumb.jpg" image="./IMG/Puffi/pics/95001-A.jpg" serie="custom" datains="20130327" anno="2012">Milka 2</smurf>
+  <smurf ref="95002" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/95002-A_thumb.jpg" image="./IMG/Puffi/pics/95002-A.jpg" serie="custom" datains="20130327" anno="2012">Milka 3</smurf>
+  <smurf ref="H0001" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/H0001-A_thumb.jpg" image="./IMG/Puffi/pics/H0001-A.jpg" serie="hardees" datains="20130327" anno="1997">Con salvagente su skate</smurf>
+  <smurf ref="H0002" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/H0002-A_thumb.jpg" image="./IMG/Puffi/pics/H0002-A.jpg" serie="hardees" datains="20130327" anno="1997">Surfa su skate</smurf>
+  <smurf ref="H0003" ordRef="01" tipo="gp" thumb="./IMG/Puffi/thumb/H0003-A_thumb.jpg" image="./IMG/Puffi/pics/H0003-A.jpg" serie="hardees" datains="20130327" anno="1997">Grande Puffo su skate</smurf>
+  <smurf ref="H0005" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/H0005-A_thumb.jpg" image="./IMG/Puffi/pics/H0005-A.jpg" serie="hardees" datains="20130327" anno="1997">Tuffatore su skate</smurf>
+  <smurf ref="H0006" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/H0006-A_thumb.jpg" image="./IMG/Puffi/pics/H0006-A.jpg" serie="hardees" datains="20130327" anno="1997">Surfa su skate</smurf>
+  <smurf ref="MC001" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC001-A_thumb.jpg" image="./IMG/Puffi/pics/MC001-A.jpg" serie="mcdonald" datains="20130327" anno="1996">McDonald Anniversario</smurf>
+  <smurf ref="MC002" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC002-A_thumb.jpg" image="./IMG/Puffi/pics/MC002-A.jpg" serie="mcdonald" datains="20130327" anno="1997">McDonald Happy Meal</smurf>
+  <smurf ref="MC003" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/MC003-A_thumb.jpg" image="./IMG/Puffi/pics/MC003-A.jpg" serie="mcdonald" datains="20130327" anno="1996">McDonald Cheerleader</smurf>
+  <smurf ref="MC004" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC004_thumb.jpg" image="./IMG/Puffi/pics/MC004.jpg" serie="mcdonald" datains="20130610" anno="1996">Jester</smurf>
+  <smurf ref="MC005" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC005-A_thumb.jpg" image="./IMG/Puffi/pics/MC005-A.jpg" serie="mcdonald" datains="20130327" anno="1996">McDonald Dolce</smurf>
+  <smurf ref="MC006" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC006-A_thumb.jpg" image="./IMG/Puffi/pics/MC006-A.jpg" serie="mcdonald" datains="20130327" anno="1996">McDonald Chitarrista</smurf>
+  <smurf ref="MC007" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC007-A_thumb.jpg" image="./IMG/Puffi/pics/MC007-A.jpg" serie="mcdonald" datains="20130327" anno="1996">McDonald Big Mac</smurf>
+  <smurf ref="MC008" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC008-A_thumb.jpg" image="./IMG/Puffi/pics/MC008-A.jpg" serie="mcdonald" datains="20130327" anno="1996">McDonald Pacco </smurf>
+  <smurf ref="MC009" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/MC009-A_thumb.jpg" image="./IMG/Puffi/pics/MC009-A.jpg" serie="mcdonald" datains="20130327" anno="1996">McDonald Majorette</smurf>
+  <smurf ref="MC010" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC010-A_thumb.jpg" image="./IMG/Puffi/pics/MC010-A.jpg" serie="mcdonald" datains="20130327" anno="1996">McDonald Fornaio</smurf>
+  <smurf ref="MC011" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC011-A_thumb.jpg" image="./IMG/Puffi/pics/MC011-A.jpg" serie="mcdonald" datains="20130327" anno="1996">McDonald Cameriere</smurf>
+  <smurf ref="MC012" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC012-A_thumb.jpg" image="./IMG/Puffi/pics/MC012-A.jpg" serie="mcdonald" datains="20130327" anno="1997">McDonald Lanciatore</smurf>
+  <smurf ref="MC013" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC013-A_thumb.jpg" image="./IMG/Puffi/pics/MC013-A.jpg" serie="mcdonald" datains="20130327" anno="1997">McDonald Snowboarder</smurf>
+  <smurf ref="MC014" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/MC014-A_thumb.jpg" image="./IMG/Puffi/pics/MC014-A.jpg" serie="mcdonald" datains="20130327" anno="1997">McDonald Pattinatrice</smurf>
+  <smurf ref="MC015" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC015-A_thumb.jpg" image="./IMG/Puffi/pics/MC015-A.jpg" serie="mcdonald" datains="20130327" anno="1997">McDonald Pattinatore</smurf>
+  <smurf ref="MC016" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC016-A_thumb.jpg" image="./IMG/Puffi/pics/MC016-A.jpg" serie="mcdonald" datains="20130327" anno="1997">McDonald Skateboarder</smurf>
+  <smurf ref="MC017" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC017-A_thumb.jpg" image="./IMG/Puffi/pics/MC017-A.jpg" serie="mcdonald" datains="20130327" anno="1997">McDonald Battitore</smurf>
+  <smurf ref="MC018" ordRef="01" tipo="pf" thumb="./IMG/Puffi/thumb/MC018-A_thumb.jpg" image="./IMG/Puffi/pics/MC018-A.jpg" serie="mcdonald" datains="20130327" anno="1997">McDonald Cestista</smurf>
+  <smurf ref="MC019" ordRef="01" tipo="pa" thumb="./IMG/Puffi/thumb/MC019-A_thumb.jpg" image="./IMG/Puffi/pics/MC019-A.jpg" serie="mcdonald" datains="20130327" anno="1997">McDonald Cestista</smurf>
+</root>

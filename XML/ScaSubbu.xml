@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	
+	
+	<team ref="143" ordRef="01" rarita="rara"  base="bianco" inner="blu"
+				  thumb1="https://lh3.googleusercontent.com/-OLLuvELl-AI/U49M8_KZc-I/AAAAAAAAMGs/cSrhauW4xHk/w160-h120-no/143_140604_box1_thumb.jpg" image1="https://lh4.googleusercontent.com/-QlyTNlTQU7Y/U49LaDmqheI/AAAAAAAAMAc/YCzttTXfblU/w958-h719-no/143_140604_box1.JPG"
+				  thumb2="https://lh5.googleusercontent.com/-PSfpr1DMX2Y/U49NEirEAiI/AAAAAAAAMJc/-Es6pQkUx-M/w160-h120-no/143_140604_box2_thumb.jpg" image2="https://lh3.googleusercontent.com/-YO1BAwor9u0/U49LavP5vrI/AAAAAAAAMAo/HzjCdpZiKSU/w958-h719-no/143_140604_box2.JPG"
+				  thumb3="https://lh6.googleusercontent.com/-NBxsqM9s0hA/U49M9ifXKrI/AAAAAAAAMJ4/U2g9GakaZgc/w160-h120-no/143_140604_f1_thumb.jpg" image3="https://lh3.googleusercontent.com/-slS2bjaN6WA/U49LbccaDFI/AAAAAAAAMBI/HfWWZ-q7ayU/w958-h719-no/143_140604_f1.JPG"
+				  thumb4="https://lh5.googleusercontent.com/-pJtEwxNULkc/U49M-zBT2UI/AAAAAAAAMHI/k40h8fbnfUw/w160-h120-no/143_140604_r1_thumb.jpg" image4="https://lh6.googleusercontent.com/-N5T4ShESKF4/U49LcET8TbI/AAAAAAAAMA8/69BueeGuOC8/w958-h719-no/143_140604_r1.JPG">
+		Bastia **(versione blu)
+	</team>
+	<team ref="319" ordRef="01" rarita="noncomune"  base="verde" inner="rosso"
+				  thumb1="https://lh6.googleusercontent.com/-TdUzy1D7Syk/VJhCC-SLWlI/AAAAAAAAMkQ/Fd5bq-qJyyY/w160-h120-no/319_141222_box1_thumb.jpg" image1="https://lh6.googleusercontent.com/-q8ijP5Q0sEE/VJgBL2z8kKI/AAAAAAAAMbg/NZY0q0gHoYU/w958-h719-no/319_141222_box1.jpg"
+				  thumb2="https://lh4.googleusercontent.com/-E4yT9ZPyz6o/VJhCK4PPv3I/AAAAAAAAMi4/92292Ig73Ig/w160-h120-no/319_141222_box2_thumb.jpg" image2="https://lh4.googleusercontent.com/-t77OimXebSc/VJgBMhhXCvI/AAAAAAAAMbo/UFUkYyO7qqE/w958-h719-no/319_141222_box2.jpg"
+				  thumb3="https://lh4.googleusercontent.com/-eVessZyGHUA/VJhCD_HzriI/AAAAAAAAMkQ/WcNoyvPrWVw/w160-h120-no/319_141222_f1_thumb.jpg" image3="https://lh6.googleusercontent.com/-0O7ywJKwiSk/VJgBOwjwhVI/AAAAAAAAMb4/c0JbmGYR9Sw/w958-h719-no/319_141222_f1.jpg"
+				  thumb4="https://lh4.googleusercontent.com/-tyw1UP3NZ_k/VJhCEXtlz9I/AAAAAAAAMkQ/zL1lpDerIQo/w160-h120-no/319_141222_r1_thumb.jpg" image4="https://lh3.googleusercontent.com/-WGP1BmSgewQ/VJgBRP8OguI/AAAAAAAAMcI/Uq8puna7TPQ/w958-h719-no/319_141222_r1.jpg">
+		Galles
+	</team>
+	<team ref="GenSpe" ordRef="01" rarita="rarissima"  base="blu" inner="rosso"
+				  thumb1="https://lh3.googleusercontent.com/-ThPZGB-oeXs/VJhCJRrO07I/AAAAAAAAMjc/1dCTfHKANWc/w160-h120-no/GES_141222_box1_thumb.jpg" image1="https://lh3.googleusercontent.com/-HQxFiwVU80Y/VJgBjeeHkJI/AAAAAAAAMeE/1aD8fbpeRa8/w958-h719-no/GES_141222_box1.jpg"
+				  thumb2="https://lh6.googleusercontent.com/-KFGasENDdkc/VJhCJmcExbI/AAAAAAAAMjU/478EVkBshz8/w160-h120-no/GES_141222_box2_thumb.jpg" image2="https://lh3.googleusercontent.com/-ONGbt6GbjLc/VJgBkvasZ1I/AAAAAAAAMeM/uy5dg8mPlFI/w958-h719-no/GES_141222_box2.jpg"
+				  thumb3="https://lh5.googleusercontent.com/-tVTXTdv9ydY/VJhCKO67JcI/AAAAAAAAMjE/ozt_ZAZ7Vog/w160-h120-no/GES_141222_f1_thumb.jpg" image3="https://lh4.googleusercontent.com/-1ninKeIq758/VJgBnz0aAoI/AAAAAAAAMec/ie-VrBgcEQg/w958-h719-no/GES_141222_f1.jpg"
+				  thumb4="https://lh6.googleusercontent.com/-tzjiXt6KiDA/VJhCLOoyw2I/AAAAAAAAMjA/A4TWRvS02M0/w160-h120-no/GES_141222_r1_thumb.jpg" image4="https://lh6.googleusercontent.com/-wxqU4-vSZGA/VJgBrO59FJI/AAAAAAAAMes/tCzslYKkvvc/w958-h719-no/GES_141222_r1.jpg">
+		Genoa Speciale
+	</team>
+	<team ref="BraSpe" ordRef="01" rarita="rara"  base="verde" inner="giallo"
+				  thumb1="https://lh5.googleusercontent.com/-sARlCwbXyfI/VJhCHrlXgpI/AAAAAAAAMj0/GWVLMVT8Gxc/w160-h120-no/BRS_141222_box1_thumb.jpg" image1="https://lh4.googleusercontent.com/-L0j4Nz_PNTE/VJgBaBlvfSI/AAAAAAAAMdQ/ePl1Vymj96Q/w958-h719-no/BRS_141222_box1.jpg"
+				  thumb2="https://lh4.googleusercontent.com/-fttODw4wPUc/VJhCH-tfngI/AAAAAAAAMjw/JjESFKJXZ78/w160-h120-no/BRS_141222_box2_thumb.jpg" image2="https://lh5.googleusercontent.com/-E5OnTXC_8zY/VJgBbcyxQvI/AAAAAAAAMdY/Hqwb6gfIM1s/w958-h719-no/BRS_141222_box2.jpg"
+				  thumb3="https://lh6.googleusercontent.com/-UAs4RKtIXxw/VJhCIe87m7I/AAAAAAAAMjo/Zhsvtc38TVY/w160-h120-no/BRS_141222_f1_thumb.jpg" image3="https://lh5.googleusercontent.com/-0DX8pkkqFms/VJgBdSR_C_I/AAAAAAAAMdg/E2t1DBUb0HE/w958-h719-no/BRS_141222_f1.jpg"
+				  thumb4="https://lh5.googleusercontent.com/-KdNTH_Vq7Hs/VJhCI6JIfbI/AAAAAAAAMjg/ZVytcpWjBzw/w160-h120-no/BRS_141222_r1_thumb.jpg" image4="https://lh3.googleusercontent.com/-KLNAssBVjJI/VJgBgbnPTvI/AAAAAAAAMdw/UeRhp7A6GY8/w958-h719-no/BRS_141222_r1.jpg">
+		Brasile Speciale**2 spares
+	</team>
+	<team ref="999" ordRef="01" rarita="comune"  base="azzurro" inner="bianco"
+				  thumb1="https://lh3.googleusercontent.com/-g8es3hBIez0/UZ4IruKyTqI/AAAAAAAAJzQ/36Iq_7fjCnk/s160/ENG_130324_box1_thumb.jpg" image1="https://lh3.googleusercontent.com/-wP0xgDUV3Ho/UZ4RcShvwaI/AAAAAAAAKCY/u2Bl_G0T6Io/s912/ENG_130324_box1.jpg"
+				  thumb2="https://lh4.googleusercontent.com/-72iOBnyK8rg/UZ4Ir3WGhpI/AAAAAAAAJzc/lFpUk8j-loU/s160/ENG_130324_box2_thumb.jpg" image2="https://lh5.googleusercontent.com/-Tb3YJ0x1BOE/UZ4RcyrDBaI/AAAAAAAAKCo/79PhyK8_Oq0/s912/ENG_130324_box2.jpg"
+				  thumb3="https://lh5.googleusercontent.com/-uFDR2o7afwo/UZ4IseQFqBI/AAAAAAAAJz4/2eWdWxY-30k/s160/ENG_130324_f1_thumb.jpg" image3="https://lh4.googleusercontent.com/-U8X2yz51Xs8/UZ4RdSgY_lI/AAAAAAAAKC4/42HHy1foZvY/s912/ENG_130324_f1.jpg"
+				  thumb4="https://lh5.googleusercontent.com/-2goow6M_ysM/UZ4Is_uX47I/AAAAAAAAJ0A/vwrqmZRoykg/s160/ENG_130324_r1_thumb.jpg" image4="https://lh3.googleusercontent.com/-LvrjwMIJFfU/UZ4ReGUcHFI/AAAAAAAAKDM/zVtcf_dUuMc/s912/ENG_130324_r1.jpg">
+		Inghilterra 3rd - replica in stile kent ** ottime basi per giocare
+	</team>
+
+	<team ref="" ordRef="01" rarita=""  base="" inner=""
+				  thumb1="" image1=""
+				  thumb2="" image2=""
+				  thumb3="" image3=""
+				  thumb4="" image4="">
+
+	</team>
+</root>

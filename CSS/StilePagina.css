@@ -1,0 +1,379 @@
+﻿/* Elementi base della pagina */
+html { min-height: 100%;
+		 min-width: 100%;		
+}
+ 
+* {
+	margin: 0;
+	padding: 0;
+}
+ 
+body {
+	background-color: Green;
+	/*background-image:;*/
+	background-repeat: repeat;
+	color:  #444;
+	font: normal 62.5% Tahoma,sans-serif;
+}
+ 
+/* header pagina*/
+/* Intestazione
+  */
+.header {
+	background-color: #66FF33;
+	border-color: #66FF33;
+	font-size: 1.2em;
+	height: 260px;
+	margin: 0 auto;
+	padding: 10px 10px 5px 5px;
+	width: 90%;
+}
+ 
+.header .row_top {
+	margin-bottom: 5px;
+	background-color: #5B99EB;
+	color: #FFF;
+	height: 30px;	
+}
+ 
+.header .row_top h1 {
+	font: normal 2.6em "Trebuchet MS",sans-serif;
+	line-height: 30px;
+	text-align: left;	
+	padding: 0  16px  0 16px;
+}
+ 
+.header .row_bottom {
+	/*background: #AFBEC7 url("./IMG/Header.jpg") no-repeat;
+	background-image: url('./IMG/Header.jpg');*/
+	 background-repeat: no-repeat;	
+	color: #FFF;
+	height: 200px;	
+	text-align: center;
+}
+ 
+.header .row_bottom img {
+/*	border: solid 2 black; */
+	border-color: Black;
+	border-style: solid;
+     border-width: thin;
+/*	background-repeat: no-repeat;	*/
+	color: #FFF;
+/*	height: 200px;*/
+}
+ 
+.header .row_bottom h1 {
+	font: normal 2.8em "Trebuchet MS",sans-serif;
+/*	line-height: 100px;*/
+	text-align: center;	
+	padding:  0 16px 0 16px ;
+}
+
+.header .imgCont {
+	margin-bottom: 5px;
+	background-color: #5B99EB;
+	color: #FFF;
+	height: 90%;	
+	width: 90%;
+}
+ 
+/* Menu Navigazione */
+.menunav {	
+	background-color: #66FF33;
+	border: solid 1px  #66FF33;
+	/*border-color:  #66FF33;	 #CFDEE7;*/
+	height: 25px;
+	text-align: center;
+}
+.menunav a {
+	background-color: #66FF33;
+	border-right: 1px solid #AFBEC7;
+	border-left: 1px solid #AFBEC7;
+	color: #456;
+	/*display:  inline;*/
+	float: none;
+	font: bold 1.2em Tahoma,sans-serif;
+	/*font: bold 1.1em sans-serif;*/
+	line-height: 25px;
+	padding:  0  10px 0 10px;
+	text-decoration: none;
+}
+.menunav a:hover {background-position: left bottom; color: #234;}
+ 
+/* container del corpo della pagina*/
+.container {
+	background: #66FF33;
+	 border-style: dotted ;
+	font-size: 1.2em;
+	margin: 0 0 0 0;
+/*	padding: 5px 5px 5px 5px;*/
+	width: 90%;
+	text-align: center;
+}
+ 
+/* Corpo Principale */
+.main {
+	border-top: 5px solid  #FFFFFF;
+/*	padding: 10px 16px 10px 16px;*/
+	padding: 0px 10px 5px 5px;
+	background-color: #66FF33;
+	width: 90%;
+	margin: 0 auto;
+	/*background: url(img/bgmain.gif) repeat-y;*/
+}
+ 
+.main .anch {
+	background-color: #66FF33;
+	border-right: 1px solid #AFBEC7;
+	border-left: 1px solid #AFBEC7;
+	color: #456;
+	/*display:  inline;*/
+	float: none;
+	font: bold 1.2em Tahoma,sans-serif;
+	/*font: bold 1.1em sans-serif;*/
+	line-height: 25px;
+	padding:  0  10px 0 10px;
+	text-decoration: none;
+ 
+}	
+/* Contenuti - Colonna unica nella pagina */
+.contentText {
+	margin: 0 auto;
+	/*margin: 0 40px 0 40px;*/
+	padding: 5px 5px 5px 5px;
+	width: 90%;
+	text-align:justify;
+}
+ 
+.contentText a
+{ font-size:medium;
+ vertical-align:top;
+}
+ 
+.contentText h3 {
+	font: normal 1.8em Tahoma,sans-serif;
+	margin-bottom: 4px;
+}
+.contentText h2 {
+	font: normal 1.5em Tahoma,sans-serif;
+	margin-bottom: 4px;
+}
+.contentText p 
+{
+	font-size:  medium;
+	font-family: "Lucida Sans Unicode",sans-serif;
+	vertical-align: baseline;
+}
+.content {
+	margin: 0 auto;
+	/*margin: 0 10 0 10;*/
+	padding: 5px 5px 5px 5px;
+	width: 98%;
+	text-align:center;
+}
+.content .descr {
+	color: #664;
+	font-size: 0.9em;
+	margin-bottom: 6px;
+}
+.content li {
+	list-style: circle;
+	line-height: 1.3em;
+	margin-left: 18px;
+}
+ 
+.content h3 {
+	font: normal 1.8em Tahoma,sans-serif;
+	margin-bottom: 4px;
+}
+.content h2 {
+	font: normal 1.5em Tahoma,sans-serif;
+	margin-bottom: 4px;
+}
+ 
+.content p 
+{
+	font-size:  1.2em;
+	font-family: "Lucida Sans Unicode",sans-serif;
+	vertical-align: baseline;
+}
+ 
+.content .box {
+	float: left;
+	width: 80%;
+	background: #66FF33;
+	border: 1px solid #EEE;
+	border-left: 6px solid #C1CAD3;
+	color: #666;
+	display: block;
+	font: normal 1em Tahoma,sans-serif;
+	line-height: 1.6em;
+	margin-bottom: 12px;
+	margin-right: 12px;
+	padding: 8px 10px;
+	white-space: pre;
+}
+/* tabella delle immagini*/
+.content .Tabella 
+{	left: 0px;
+	width: 100%;
+	position: relative;
+	top: 0px;
+	height: 100%;
+	border-width :thin;
+	/*border: solid medium black;
+	border-left: solid thin black;
+	border-right: solid thin black;
+	border-bottom: solid thin black;
+	border-top: solid thin black;*/
+/*	cellspacing: 1;
+	cellpadding: 2;*/
+ 
+}
+/* cella della tabella delle immagini */
+ 
+.content .RigaColl
+{
+	border-left: none thin black;
+	border-right: none thin black;
+	border-bottom: none thin black;
+	border-top: none thin black;	
+}
+ 
+.content .CellaColl
+{
+	border-left: solid thin black;
+	border-right: solid thin black;
+	border-bottom: solid thin black;
+	border-top: solid thin black;
+	vertical-align: top;
+/*	horizontal-align: center;*/
+}
+.content .RigaSca
+{
+/*	border-left: solid thin black;
+	border-right: solid thin black;
+	border-bottom: solid thin black;
+	border-top: solid thin black;	*/
+}
+.content .CellaScaLeft
+{
+	vertical-align:  middle;
+	font-size: medium;
+	border-left: solid thin black;
+	border-right: none thin black;
+	border-bottom: solid thin black;
+	border-top: solid thin black;	
+/*	horizontal-align: center;*/
+}
+.content .CellaScaCenter
+{
+	vertical-align:  middle;
+	font-size: medium;
+	border-left: none thin black;
+	border-right: none thin black;
+	border-bottom: solid thin black;
+	border-top: solid thin black;	
+/*	horizontal-align: center;*/
+}
+.content .CellaScaRight
+{
+	vertical-align:  middle;
+	font-size: medium;
+	border-left: none thin black;
+	border-right: solid thin black;
+	border-bottom: solid thin black;
+	border-top: solid thin black;	
+/*	horizontal-align: center;*/
+}
+.content .RigaNews
+{
+/*	border-left: solid thin black;
+	border-right: solid thin black;
+	border-bottom: solid thin black;
+	border-top: solid thin black;	*/
+}
+.content .CellaNewsLeft
+{
+	vertical-align:  middle;
+	font-size:  large;
+	border-left: solid thin black;
+	border-right: none thin black;
+	border-bottom: solid thin black;
+	border-top: solid thin black;	
+}
+.content .CellaNewsRight
+{
+	vertical-align:  middle;
+	font-size:  large;
+	border-left: none thin black;
+	border-right: solid thin black;
+	border-bottom: solid thin black;
+	border-top: solid thin black;	
+}
+ 
+.content img
+{
+	border: solid medium  green;
+}
+ 
+ 
+ 
+/* per modificare le immagini dentro la griglia (due tipi: "coll" e "vend" */
+.contentText img
+{
+	border: solid medium  green;
+}
+ 
+/* tabella dei filtri */
+.content .tabFiltri
+{
+	/*left: 0px;*/
+	width: 95%;
+	position: relative;
+	top: 0px;
+	height: 100%;
+	border-width :thin; 
+	Z-INDEX: 101; 
+}
+ 
+.content .cellLblFiltro
+{	text-align: right;
+}
+ 
+.content .cellOptFiltro
+{	 text-align: left;
+}
+ 
+.content .lblFiltro
+{   width:90%;
+	background-color:Transparent;
+	/*text-decoration: none;
+	outline-style: none;
+	text-indent: 0px;
+	outline-width: 0;*/
+	border-style:none;
+	font: bold 1.4em Tahoma,sans-serif;
+	text-align:right;
+ 
+}
+ 
+.content .optFiltro
+{	width:90%;
+	text-align:left;
+}
+ 
+ 
+.slidingDiv {
+ 
+ /*   background-color: #99CCFF;
+    padding:20px;*/
+    margin-top:10px;
+    border-bottom:5px solid #FFF;
+}
+ 
+.show_hide {
+    display:none;
+    /*style="font: bold 1.2em Tahoma,sans-serif;"*/
+    font: bold 1.2em Tahoma,sans-serif;
+}

@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" >
+<head>
+    <title>Pangex Site - Collezionista di Puffi e Subbuteo</title>
+	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Language" content="it" />
+	<meta name="Robots" content="All" />
+	<meta name="Description" content="Pangex.it - Collezione di Puffi e di Subbuteo" />
+	<meta name="Keywords" content="Collezione Puffi Subbuteo vendita scambio" />
+	<meta name="Owner" content="Pangex" /> 
+	<meta name="Author" content="Pangex" />  
+	<meta name="Copyright" content="Pangex.it" />
+    <link rel="stylesheet" type="text/css" href="CSS/StilePagina.css" media="screen"/>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" ></script>
+    <script type="text/javascript" src="JS/XMLParser.js" ></script> 
+    <script type="text/javascript" src="JS/AltreFunzioni.js" ></script>
+    <script type="text/javascript">
+	
+    /*    $(document).ready(function()
+        {
+			// init sdk facebook
+			
+			$.ajaxSetup({ cache: true });
+			$.getScript('//connect.facebook.net/it_IT/sdk.js', function(){
+				FB.init({	appId: '569265333260358',
+							version: 'v2.5' // or v2.0, v2.1, v2.2, v2.3
+						});     
+				$('#loginbutton,#feedbutton').removeAttr('disabled');
+				FB.getLoginStatus(updateStatusCallback);
+			});
+		});
+		*/	
+		$(document).ready(function()	
+		//function updateStatusCallback()
+		{			
+        	var qStr;
+        	var indSta;
+        	var initPage = 'ho';
+        	var par ='rd';
+        	qStr =window.location.toString();
+        	indSta= qStr.indexOf(par);
+        	if (indSta> -1) 
+        	{
+ 				var indEnd=qStr.indexOf('&amp;',indSta);
+ 				if (indEnd==-1) indEnd=qStr.length; 
+ 				initPage = unescape(qStr.substring(indSta+par .length+1,indEnd)); 
+ 				
+         	}
+        	
+        	switch (initPage.toLowerCase())
+        	{
+	        	case 'ho':	//home page
+		            apriLink('Home.html?zz=',1,1,defaultQS);   	
+	        		break;
+	        		
+	        	case 'no':	// novità
+	        		apriLink('Novita.html?zz=',0,1,defaultQS)
+	        		break;
+	        		
+	        	case 'cs':	// collezione subbuteo
+	        		apriLink('CollSubbu.html?base=&inner=&ref=&desc=',1,0,defaultQS)
+	        		break;
+	        		
+	        	case 'cp':	// collezione puffi
+	        		apriLink('CollPuffi.html?serie=&tipo=&ref=&desc=',1,0,defaultQS )
+	        		break;
+	        		
+	        	case 'ms':	// mercato subbuteo
+	        		apriLink('ScaSubbu.html?base=&inner=&rarita=',1,0,defaultQS)
+	        		break;
+	        		
+	        	case 'mp':	// mercato puffi
+	        		apriLink('ScaPuffi.html?zz=',1,1,defaultQS)
+	        		break;        	
+	        		
+	        	case 'us':	// ultimi arrivi subbuteo
+	        		apriLink('UASubbu.html?base=&inner=&ref=&desc=',0,1,defaultQS);
+	        		break;	
+	        		
+	        	case 'up':	// ultimi arrivi puffi
+	        		apriLink('UAPuffi.html?base=&inner=&ref=&desc=',0,1,defaultQS);
+	        		break;
+	        		
+	        	case 'dp':	// coppiette puffi
+	        		apriLink('CoppiePuffi.html?base=&inner=&ref=&desc=',0,1,defaultQS);
+	        		break;
+	        		
+	        	default:
+	        		apriLink('Home.html?zz=',1,1,defaultQS);   	
+
+        	}
+        	
+         //   apriLink('Home.html?zz=',1,1,defaultQS);
+           // $(".mostraFiltri").hide();
+           // $(".show_hide").show();
+            $('.show_hide').click(function()
+            {
+                $(".mostraFiltri").slideToggle();
+            });
+        //}
+		});
+		
+    </script>
+    <script type="text/javascript">
+    
+    var defaultQS = 'pag=1&ixp=60';
+    //var tipoNovita = 0;
+//         function PrimoGiro()
+//         {
+//            //alert(document.form1.method.toUpperCase());
+//            //if (document.form1.method.toUpperCase() == 'GET')  apriLink('Home.aspx?a=',1,1);
+//         }         
+    </script> 
+ 
+</head>
+
+
+<body oncontextmenu="return false">
+    <form id="form1" method="get" >
+            <div class="header">
+                <div class="row_top">
+                    <h1  align="center">PANGEX - Collezionista di Puffi e Subbuteo</h1>
+                </div>   
+                <div class="row_bottom" >
+                    <img  alt="Subbuteo" width="60%" height="100%"  src="./IMG/Header.jpg" />
+                    <img  alt="Puffi" width="25%" class="row_bottom" src="./IMG/AAA intestaz.jpg" />
+                </div>
+  	            <div class="menunav" align="center">
+		            <a href="javascript:apriLink('Home.html?zz=',1,1,defaultQS)" >Home</a>
+		            <a href="javascript:apriLink('Novita.html?zz=',0,1,defaultQS)">Novit&agrave;</a>
+		            <a href="javascript:apriLink('CollSubbu.html?base=&inner=&ref=&desc=',1,0,defaultQS)">
+					Collezione Subbuteo</a>
+			
+		<!--		    <a href="javascript:apriLink('UASubbu.html?base=&inner=&ref=&desc=',0,1,defaultQS)">
+					Ult Arr Subbu</a>		-->
+					
+		            <a href="javascript:apriLink('CollPuffi.html?serie=&tipo=&ref=&desc=',1,0,defaultQS )">
+					Collezione Puffi</a>
+		            <a href="javascript:apriLink('ScaSubbu.html?base=&inner=&rarita=',1,0,defaultQS)">
+					Mercato Subbuteo</a>
+		            <a href="javascript:apriLink('ScaPuffi.html?zz=',1,1,defaultQS)">
+					Mercato Puffi</a>
+		            <a href="javascript:apriLink('Contatti.html?zz=',0,1,defaultQS)">
+					Contatti</a>
+		            <a href="javascript:apriLink('Link.html?zz=',0,1,defaultQS)">Links</a>
+    	        </div>
+            </div>
+            <div class="main">
+                <input type="hidden" id="hidFiltri" />
+                <input type="hidden" id="hidPaginazione" />               
+                <div id="divAttesa" class="attesa" align="center" style="font-size: medium; height:80px; border-bottom:5px solid #FFF;"> 
+                    <img src='IMG/mini_loading.gif' alt='Caricamento' /><br />
+					Attendi la pagina richiesta&#8230;          
+                </div>
+                <a class="show_hide" href="#">Mostra/Nascondi Filtri</a>
+                <div id="filtri" class="mostraFiltri" align="center" style="height:60px; border-bottom:5px solid #FFF;">           
+                </div>
+                <div></div>
+                <div id="BottomDiv" class="mostraPagina">
+                </div>
+				<div id="linkup" style="text-align:right">
+				<a href="#">Torna Su</a>
+				</div>
+            </div>
+
+    </form>
+</body>
+
+
+</html>

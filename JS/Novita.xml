@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<news data="" ord="01" tipo=""></news>
+	<news data="" ord="01" tipo=""></news>
+	<news data="" ord="01" tipo=""></news>
+	<news data="21/05/2013" ord="01" tipo="">Aggiunto il filtro per Ref nelle sezioni Collezione Puffi e Collezione Subbuteo</news>
+	<news data="21/05/2013" ord="01" tipo="">Aggiunti ultimi arrivi tra cui anche la rarissima Puffetta Baseball</news>
+	<news data="20/05/2013" ord="01" tipo="">Corrette alcune imprecisione sui filtri nella sezione Collezione Subbuteo</news>
+	<news data="15/05/2013" ord="01" tipo="">Inserita la possibilità di filtrare per la descrizione nella sezione Collezione Puffi</news>
+	<news data="14/05/2013" ord="01" tipo="">Inserita la possibilità di filtrare per la descrizione nella sezione Collezione Subbuteo</news>
+	<news data="14/05/2013" ord="01" tipo="">Migliorata la visualizzazione delle sezioni di Mercato</news>
+	<news data="14/05/2013" ord="01" tipo="">Inseriti nuovi lotti di Puffi nella sezione Mercato Puffi</news>
+	<news data="10/05/2013" ord="01" tipo="">Inserite le ref dalla 143 alla 158 nella sezione Collezione Subbuteo</news>
+	<news data="10/05/2013" ord="01" tipo="">Corrette le serie disponibili nel filtro della sezione Collezione Puffi e inserita la nuova serie 2013</news>
+	<news data="07/05/2013" ord="01" tipo="">Inserite nuove ref 59 e 94 nella sezione Collezione Subbuteo</news>
+	<news data="22/04/2013" ord="01" tipo="">Inserite le ref dalla 81 alla 142 nella sezione Collezione Subbuteo</news>
+	<news data="17/04/2013" ord="01" tipo="">Corretto problema sull'apertura delle immagini con Internet Explorer, ora possibile</news>
+	<news data="17/04/2013" ord="01" tipo="">Corretti alcuni errori che apparivano randomicamente al cambiamento di pagina dal menù</news>
+	<news data="16/04/2013" ord="01" tipo="">Inserite foto migliori per gli spares dalla ref 50 alla ref 80 nella sezione Collezione Subbuteo</news>
+	<news data="16/04/2013" ord="01" tipo="">Piccole modifiche di layout</news>
+	<news data="12/04/2013" ord="01" tipo="">Aggiornata la lista delle squadre nella sezione Mercato Subbuteo</news>
+	<news data="12/04/2013" ord="01" tipo="">Piccole modifiche di layout</news>
+	<news data="12/04/2013" ord="01" tipo="">Implementata nuova pagina per mostrare le foto grandi</news>
+	<news data="09/04/2013" ord="01" tipo="">Inseriti spares Squadre Speciali nella Collezione Subbuteo</news>
+	<news data="09/04/2013" ord="01" tipo="">Inserite nuove immagini per le erf dalla 50 alla 80 nella Collezione Subbuteo</news>
+	<news data="08/04/2013" ord="01" tipo="">Aggiunte foto Mulino e casa Grande nella Collezione Puffi</news>
+	<news data="04/04/2013" ord="01" tipo="">Aggiunte nuove squadre nella categoria Mercato Subbuteo</news>
+	<news data="03/04/2013" ord="01" tipo="">Aggiunta pagina delle Novità</news>
+	<news data="03/04/2013" ord="01" tipo="">Aggiunti i primi puffi su piedistallo e nuovo puffo storico nella Collezione Puffi</news>
+	<news data="28/03/2013" ord="01" tipo="">Inseriti nuovi puffi nella sezione Mercato Puffi</news>
+	<news data="27/03/2013" ord="01" tipo="">Inserite nuove squadre nella sezione Mercato Subbuteo</news>
+	<news data="27/03/2013" ord="01" tipo="">Inserite foto migliori per gli spares dalla ref 1 alla ref 49 nella pagina della Collezione Subbuteo</news>
+	<news data="27/03/2013" ord="01" tipo="">Modificate le pagine delle Collezioni in modo che sia possibile scegliere quante immagini per volta si possano vedere e che pagina visualizzare</news>
+	<news data="26/03/2013" ord="01" tipo="">Aggiunti nuovi spares alla Collezione Subbuteo</news>
+	<news data="25/03/2013" ord="01" tipo="">Aggiunti nuovi puffi alla Collezione Puffi</news>
+	<news data="24/03/2013" ord="01" tipo="generale">Il sito è online nella sua collocazione definitiva</news>
+
+</root>

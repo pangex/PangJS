@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <link rel="stylesheet" type="text/css" href="CSS/StilePagina.css" media="screen"/>
+    <script type="text/javascript">
+        window.document.body.style.cursor = 'default';
+        $('.attesa').hide();
+
+    </script>
+	<script type="text/javascript">
+	// statistiche di google
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-39134686-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+    </script>
+    <script type="text/javascript">
+		//alert(document.getElementsByName("hidPaginazione").value);
+	    $(document).ready(XmlReader(1,'XML/CollPuffi.xml','smurf','serie,tipo,ref,desc','ref'));
+	</script> 
+</head>
+
+
+<body>
+
+    <form runat="server">
+	    <div class="content">
+	        <h1 align=center> LA MIA COLLEZIONE DI PUFFI </h1>
+	        <h3 id="contTota"></h3>
+	        <div class="menunav" align="center">
+		     	<a style="text-align:left" href="" onclick="javascript:apriLink('UAPuffi.html?base=&inner=&ref=&desc=',0,1,defaultQS);return false;">Ultimi Arrivi</a> 
+		     	<a style="text-align:left" href="" onclick="javascript:apriLink('CoppiePuffi.html?base=&inner=&ref=&desc=',0,1,defaultQS);return false;">Coppie</a> 
+			</div>        
+	        <br />
+	    	<div style="text-align:center; vertical-align:bottom">
+	    	<a name="fb_share" type="button_count" share_url="http://www.pangex.it/?rd=cp" href="http://www.facebook.com/sharer.php">Condividi su Facebook</a>
+			<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+	        <iframe id="btnLike" src="http://www.facebook.it/plugins/like.php?href=http%3A%2F%2Fwww.pangex.it%2F%3Frd=cp&locale=it_it" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:450px; height:23px"></iframe>
+		    </div>
+		    <div  id="ConTabella" runat=server>
+            </div>                
+        </div>
+    </form>
+</body>
+</html>

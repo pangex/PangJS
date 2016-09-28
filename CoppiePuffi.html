@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <link rel="stylesheet" type="text/css" href="CSS/StilePagina.css" media="screen"/>
+    <script type="text/javascript">
+        window.document.body.style.cursor = 'default';
+         $('.attesa').hide();
+   </script>
+	<script type="text/javascript">
+	// statistiche di google
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-39134686-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+    </script>
+    <script type="text/javascript">
+    $(document).ready(XmlReader(2,'XML/CoppiePuffi.xml','coppia','ref','ref'));
+    //  alert('inultarrsubbu');
+    </script>
+</head>
+<body >
+   <form>
+	    <div class="content">
+	        <h1 align=center> COPPIE NELLA COLLEZIONE PUFFI</h1>
+	        <h3 id="contTota"></h3>
+	        <br />
+	    <!--  	<a style="text-align:left" href="" onclick="window.showModalDialog('MostraNovita.html',1);return false;">Ultimi Arrivi</a> 
+	   	<a style="text-align:left" href="" onclick="window.open('MostraNovita.html',1);return false;">Ultimi Arrivi</a>-->
+		    <div  id="ConTabella">
+            </div>                
+        </div>
+    </form>
+</body>
+</html>

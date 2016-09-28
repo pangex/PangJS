@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" >
+<head>
+    <link rel="stylesheet" type="text/css" href="CSS/StilePagina.css"/>
+    <title>Pangex Site - Collezionista di Puffi e Subbuteo</title>
+    <script type="text/javascript" src="JS/AltreFunzioni.js" ></script>
+	<script type="text/javascript">
+		function getUrlImg()
+		{
+			var src = window.name;
+			var imgRef;
+			//alert(window.location.search);
+			//qs = window.location.href.slice(window.location.href.indexOf('?') + 1).replace('img=','');
+			imgRef = document.getElementById('imgBig');
+			if (navigator.userAgent.indexOf('MSIE')  > -1)
+			{
+				src= sostChar(src,'______','-');
+				src= sostChar(src,'_____','/');
+				src= sostChar(src,'____','.');
+				src= sostChar(src,'___','/-');
+				src= sostChar(src,'__','://');
+			}
+			//alert(src);
+			imgRef.src = src;	//qs;
+			//imgRef.src = 'http://'+src;	//qs;
+		}
+		
+		//var nomePag;
+		//document.getElementById("btnLike").src = "http://www.facebook.it/plugins/like.php?href=http%3A%2F%2Fwww.pangex.it%2FMostraImg.html" + location.search.replace("?","%0f") + "&locale=it_it" ;
+		
+		
+	</script>
+</head>
+
+<body oncontextmenu="return false" onload="javascript:getUrlImg()" >
+<div class="header"style="width:90%; height:90%; text-align:center; vertical-align:middle; margin-top:50px" >
+		<img id="imgBig" alt="immagine in caricamento" style="width:80%; height:80%;" />
+<!--		<iframe id="btnLike" src="http://www.facebook.it/plugins/like.php?href=http%3A%2F%2Fwww.pangex.it%2F&locale=it_it" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:300px; height:25px"></iframe>  -->
+</div>
+
+</body>
+
+</html>
